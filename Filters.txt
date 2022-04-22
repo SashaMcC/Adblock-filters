@@ -234,8 +234,6 @@ thetimes.co.uk###paywall-portal-sale-modal
 
 ! 2022-03-29 https://www.androidauthority.com
 androidauthority.com##div.-ad
-androidauthority.com##p
-androidauthority.com##.-Pe
 
 ! 2022-04-05 https://readberserk.com
 readberserk.com##.card
