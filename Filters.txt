@@ -58,7 +58,6 @@ gsmarena.com##.price-banner
 www.gsmarena.com##.module
 www.gsmarena.com##[href="deals.php3"]
 www.gsmarena.com###menu [href="https://merch.gsmarena.com/"]
-m.gsmarena.com##p:nth-of-type(n)
 
 ! 2022-02-08 https://www.androidpolice.com
 androidpolice.com##.sidebar
