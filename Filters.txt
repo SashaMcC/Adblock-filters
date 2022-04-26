@@ -268,3 +268,7 @@ arstechnica.com###page-footer
 
 ! 2022-04-21 https://www.bbc.co.uk
 www.bbc.co.uk##.lx-share-tools__items
+
+! 2022-04-26 https://www.apkmirror.com
+apkmirror.com##.gooWidget, .google-ad-leaderboard
+apkmirror.com##.advertisement-text
