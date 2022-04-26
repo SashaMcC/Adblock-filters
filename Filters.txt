@@ -270,5 +270,7 @@ arstechnica.com###page-footer
 www.bbc.co.uk##.lx-share-tools__items
 
 ! 2022-04-26 https://www.apkmirror.com
-apkmirror.com##.gooWidget, .google-ad-leaderboard
+apkmirror.com##.google-ad-leaderboard
+apkmirror.com##.advertisement-text
+apkmirror.com##.adsbygoogle, .adslot
 apkmirror.com##.advertisement-text
