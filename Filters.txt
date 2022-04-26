@@ -9,6 +9,11 @@ boards.4channel.org##.abovePostForm
 boards.4channel.org##.aboveMidAd
 boards.4channel.org##hr:nth-of-type(n)
 boards.4channel.org##.absBotText
+boards.4channel.org###bannerCnt
+||s.4cdn.org/image/contest_banners/*$image
+boards.4channel.org##.title
+boards.4channel.org###delform > .adg-rects
+boards.4channel.org##body > .desktop.adg-rects
 boards.4chan.org##.desktop.title
 boards.4chan.org##.center.middlead
 boards.4chan.org###blotter
@@ -19,6 +24,11 @@ boards.4chan.org##.abovePostForm
 boards.4chan.org##.aboveMidAd
 boards.4chan.org##hr:nth-of-type(n)
 boards.4chan.org##.absBotText
+boards.4chan.org###bannerCnt
+boards.4chan.org##.title
+boards.4chan.org###delform > .adg-rects
+boards.4chan.org##body > .desktop.adg-rects
+
 
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
@@ -38,6 +48,8 @@ xda-developers.com##.et_social_mobile_off
 xda-developers.com##em
 xda-developers.com##.ad-zone
 xda-developers.com##.ad-current
+xda-developers.com##.panel-list--social
+xda-developers.com##.w-social
 forum.xda-developers.com##.structItemContainer-group--sticky
 forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
 forum.xda-developers.com##.uix_noticeInner
@@ -55,15 +67,17 @@ gsmarena.com##.sub-footer
 gsmarena.com###footer
 gsmarena.com##.social
 gsmarena.com##.price-banner
-www.gsmarena.com##.module
-www.gsmarena.com##[href="deals.php3"]
-www.gsmarena.com###menu [href="https://merch.gsmarena.com/"]
+gsmarena.com###topAdv
+gsmarena.com##.adv
+gsmarena.com##.ad-label
+gsmarena.com##.module
+gsmarena.com##[href="deals.php3"]
+gsmarena.com###menu [href="https://merch.gsmarena.com/"]
 
 ! 2022-02-08 https://www.androidpolice.com
 androidpolice.com##.sidebar
 androidpolice.com##.ad-zone
-androidpolice.com##.listing-header
-androidpolice.com##.clip-half.browse-half.sentinel-listing-page-list  .bc-comment-count
+androidpolice.com##.bc-comment-count
 androidpolice.com##.js-content .bc-info > .bc-details
 androidpolice.com##.heading_meta
 androidpolice.com##.heading_sharing
@@ -79,13 +93,15 @@ androidpolice.com##.heading_breadcrumb
 androidpolice.com##.w-menu-follow
 androidpolice.com##.bc-comment-count
 androidpolice.com##.dynamically-injected-refresh-ad-zone
-
+androidpolice.com##.ad-zone-size-container
+androidpolice.com##.adsninja-ad-zone
+androidpolice.com##.heading_sharing
+androidpolice.com###ad-zone-container-AP-Reg-Org
 androidpolice.com##.section-header
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
 ! 2022-02-08 https://9to5google.com
-9to5google.com##.header-right-area
 9to5google.com##.slick-slider
 9to5google.com##div.feed-title-bar
 9to5google.com##.post-body.comments-area
@@ -94,6 +110,12 @@ androidpolice.com##.section-header
 9to5google.com##.author-bio-container
 9to5google.com##.aside-post-meta
 9to5google.com##.show-promo
+9to5google.com##.inlinead
+9to5google.com##.slick-list
+9to5google.com##.post-social-mobile
+9to5google.com###js-header-social
+9to5google.com##.trending-items
+||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
@@ -124,6 +146,10 @@ chromeunboxed.com##.adtester-container
 chromeunboxed.com##span.adtester-container
 chromeunboxed.com##.ezoic-ad:nth-of-type(n)
 chromeunboxed.com##.courtesyNav
+chromeunboxed.com##.desktopHeaderBanner
+chromeunboxed.com##.ezo_ad
+chromeunboxed.com##.code-block
+chromeunboxed.com##.ezoic-ad > span
 
 ! 2022-02-08 https://www.omgubuntu.co.uk
 omgubuntu.co.uk##.header__nav
@@ -143,6 +169,7 @@ omgubuntu.co.uk##.post-links
 omgubuntu.co.uk##.breadcrumbs
 omgubuntu.co.uk##.header__socials--mobile
 omgubuntu.co.uk##.omg-promoted-story
+omgubuntu.co.uk##.omg-social-proof
 
 ! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
@@ -152,8 +179,11 @@ omgubuntu.co.uk##.omg-promoted-story
 9to5linux.com##.bm-social-sharing
 9to5linux.com##.entry-footer
 9to5linux.com##.site-info
-9to5linux.com###cookie-law-info-bar > span
 9to5linux.com##.cli-modal-dialog
+9to5linux.com##.adsbygoogle
+9to5linux.com##.code-block
+9to5linux.com##.cli-bar-popup
+9to5linux.com##.bm-social-sharing
 
 ! 2022-02-08 https://linuxiac.com
 linuxiac.com###secondary > .theiaStickySidebar
@@ -173,6 +203,8 @@ linuxiac.com##.ct-related-posts-container
 linuxiac.com##.ct-footer
 linuxiac.com###sidebar
 linuxiac.com##.ct-share-box
+linuxiac.com##.ct-header-socials
+linuxiac.com###comments
 
 ! 2022-02-08 https://www.reddit.com
 reddit.com##._1FUNcfOeszr8eruqLxCMcR
@@ -232,7 +264,19 @@ w2.0123movies.ltd##iframe:nth-of-type(n)
 thetimes.co.uk###paywall-portal-sale-modal
 
 ! 2022-03-29 https://www.androidauthority.com
-androidauthority.com##div.-ad
+androidauthority.com##.-ad
+androidauthority.com##div.-lc.-Y.-e.-kc:nth-of-type(n)
+androidauthority.com##.-qf
+androidauthority.com##.-kc
+androidauthority.com##.-yf
+androidauthority.com##.-yh
+androidauthority.com##.-uc
+androidauthority.com##.-Dc
+androidauthority.com##.-Oc
+androidauthority.com##.-nf.-mf.-jf
+androidauthority.com##.-kh
+androidauthority.com##.-Wb.-Tb.-jh
+androidauthority.com##.-Tb.-jh
 
 ! 2022-04-05 https://readberserk.com
 readberserk.com##.card
@@ -267,7 +311,7 @@ arstechnica.com###comments-area
 arstechnica.com###page-footer
 
 ! 2022-04-21 https://www.bbc.co.uk
-www.bbc.co.uk##.lx-share-tools__items
+bbc.co.uk##.lx-share-tools__items
 
 ! 2022-04-24 https://sourceforge.net
 sourceforge.net##.social-icons
@@ -277,3 +321,7 @@ apkmirror.com##.google-ad-leaderboard
 apkmirror.com##.advertisement-text
 apkmirror.com##.adsbygoogle, .adslot
 apkmirror.com##.advertisement-text
+apkmirror.com##.adslot
+apkmirror.com##.adsbygoogle
+apkmirror.com##.gooWidget
+apkmirror.com##span.advertisement-text
