@@ -277,6 +277,7 @@ androidauthority.com##.-nf.-mf.-jf
 androidauthority.com##.-kh
 androidauthority.com##.-Wb.-Tb.-jh
 androidauthority.com##.-Tb.-jh
+androidauthority.com##a.-sh:nth-of-type(n)
 
 ! 2022-04-05 https://readberserk.com
 readberserk.com##.card
