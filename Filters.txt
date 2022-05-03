@@ -98,6 +98,8 @@ androidpolice.com##.adsninja-ad-zone
 androidpolice.com##.heading_sharing
 androidpolice.com###ad-zone-container-AP-Reg-Org
 androidpolice.com##.section-header
+androidpolice.com##.listing-header
+androidpolice.com##.footer_breadcrumb
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
@@ -170,6 +172,11 @@ omgubuntu.co.uk##.breadcrumbs
 omgubuntu.co.uk##.header__socials--mobile
 omgubuntu.co.uk##.omg-promoted-story
 omgubuntu.co.uk##.omg-social-proof
+omgubuntu.co.uk##.embed-container
+omgubuntu.co.uk##.portholes-layout
+omgubuntu.co.uk##div.has-subtitle.has-title.with-divider.layout__header:nth-of-type(n)
+omgubuntu.co.uk##div.has-title.with-divider.layout__header:nth-of-type(n)
+omgubuntu.co.uk##div.layout__subtitle:nth-of-type(n)
 
 ! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
@@ -287,12 +294,16 @@ androidacy.com##ins.adsbygoogle:nth-of-type(n)
 androidacy.com##.widget-area
 androidacy.com##.perfecty-push-dialog-container
 androidacy.com##.shadow.mx-auto.card
+androidacy.com##.alert-info
+androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+api.androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
 
 ! 2022-04-06 https://gogoanime.fi
-gogoanime.fi##.notice-400
+gogoanime.*##.notice-400
+gogoanime.*##.notice-400
 
 ! 2022-04-06 https://www.funimation.com
 funimation.com##.v-bottom-sheet.v-dialog
@@ -326,3 +337,9 @@ apkmirror.com##.adslot
 apkmirror.com##.adsbygoogle
 apkmirror.com##.gooWidget
 apkmirror.com##span.advertisement-text
+
+! 2022-05-01 https://taskandpurpose.com
+taskandpurpose.com##.wp-block-quote
+
+! 2022-05-02 https://web.archive.org
+web.archive.org##div.adun:nth-of-type(n)
