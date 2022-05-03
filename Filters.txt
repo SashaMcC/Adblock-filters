@@ -285,6 +285,8 @@ androidauthority.com##.-kh
 androidauthority.com##.-Wb.-Tb.-jh
 androidauthority.com##.-Tb.-jh
 androidauthority.com##a.-sh:nth-of-type(n)
+androidauthority.com##.in-article-video
+androidauthority.com##.-mf.-jf
 
 ! 2022-04-05 https://readberserk.com
 readberserk.com##.card
