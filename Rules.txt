@@ -264,6 +264,9 @@ no-large-media: behind-the-scene false
 * static.zotabox.com * block
 * segment-data.zqtk.net * block
 www.androidacy.com * 3p-script block
+www.androidacy.com patreon.com * block
+www.androidacy.com sentry-cdn.com * block
+www.androidacy.com sentry.io * block
 www.androidauthority.com static.narrativ.com * noop
 www.apkmirror.com * 3p-script block
 www.apkmirror.com * inline-script block
