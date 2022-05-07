@@ -303,7 +303,8 @@ androidacy.com##.site-footer
 androidacy.com##section#patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
 api.androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
 api.androidacy.com##.card.widget_patreon_wordpress_login_widget
-api.androidacy.com##section#patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+api.androidacy.com##.patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+api.androidacy.com##.card-body.widget_patreon_wordpress_login_widget
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
