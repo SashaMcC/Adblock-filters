@@ -10,7 +10,6 @@ boards.4channel.org##.aboveMidAd
 boards.4channel.org##hr:nth-of-type(n)
 boards.4channel.org##.absBotText
 boards.4channel.org###bannerCnt
-||s.4cdn.org/image/contest_banners/*$image
 boards.4channel.org##.title
 boards.4channel.org###delform > .adg-rects
 boards.4channel.org##body > .desktop.adg-rects
@@ -28,6 +27,7 @@ boards.4chan.org###bannerCnt
 boards.4chan.org##.title
 boards.4chan.org###delform > .adg-rects
 boards.4chan.org##body > .desktop.adg-rects
+||s.4cdn.org/image/contest_banners/*$image
 
 
 ! 2022-02-08 https://www.xda-developers.com
@@ -190,7 +190,6 @@ omgubuntu.co.uk##div.layout__subtitle:nth-of-type(n)
 9to5linux.com##.adsbygoogle
 9to5linux.com##.code-block
 9to5linux.com##.cli-bar-popup
-9to5linux.com##.bm-social-sharing
 
 ! 2022-02-08 https://linuxiac.com
 linuxiac.com###secondary > .theiaStickySidebar
@@ -298,13 +297,16 @@ androidacy.com##.perfecty-push-dialog-container
 androidacy.com##.shadow.mx-auto.card
 androidacy.com##.alert-info
 androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+androidacy.com##.has-small-font-size
+androidacy.com##.py-5.offset-md-1.col-md-10 > p
+androidacy.com##.site-footer
 api.androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+api.androidacy.com##.widget
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
 
 ! 2022-04-06 https://gogoanime.fi
-gogoanime.*##.notice-400
 gogoanime.*##.notice-400
 
 ! 2022-04-06 https://www.funimation.com
@@ -314,10 +316,10 @@ funimation.com##.v-bottom-sheet.v-dialog
 theguardian.com###sp_message_container_631096
 
 ! 2022-04-08 https://ww7.readsnk.com
-ww7.readsnk.com##.aligncenter
-ww7.readsnk.com##.my-3.justify-center.items-center.flex-wrap.flex
-ww7.readsnk.com##.my-3.p-3.text-orange-700.border-orange-500.border-l-4.bg-orange-100
-ww7.readsnk.com###disqus_thread
+readsnk.com##.aligncenter
+readsnk.com##.my-3.justify-center.items-center.flex-wrap.flex
+readsnk.com##.my-3.p-3.text-orange-700.border-orange-500.border-l-4.bg-orange-100
+readsnk.com###disqus_thread
 
 ! 2022-04-21 https://arstechnica.com
 arstechnica.com##.comment-count
