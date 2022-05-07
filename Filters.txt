@@ -320,10 +320,9 @@ androidacy.com##.widget_patreon_wordpress_login_widget
 androidacy.com##section.widget:nth-of-type(n)
 androidacy.com##.widget.widget_patreon_wordpress_login_widget.card.card-body.mb-1.bg-light.border-0.rounded
 androidacy.com##.widget-title.card-title.border-bottom,py-2
-||patreon.com/platform/iframe*
-widget=become-patron-button$domain=www.androidacy.com,subdocument
 androidacy.com##.widget :has-text(ads)
-api.androidacy.com##.widget :has-text(ads)
+androidacy.com##.patreon-widget
+api,androidacy.com##.patreon-widget
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
