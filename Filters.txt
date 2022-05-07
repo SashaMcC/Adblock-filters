@@ -301,7 +301,7 @@ androidacy.com##.has-small-font-size
 androidacy.com##.py-5.offset-md-1.col-md-10 > p
 androidacy.com##.site-footer
 api.androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
-api.androidacy.com##.widget
+api.androidacy.com##.card.widget_patreon_wordpress_login_widget
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
