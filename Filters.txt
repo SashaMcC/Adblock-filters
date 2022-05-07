@@ -303,11 +303,12 @@ androidacy.com##.card.widget
 androidacy.com##.widget:nth-of-type(n)
 androidacy.com##.widget :has-text(ads)
 androidacy.com##.patreon-widget
-androidacy.com##.widget[id^="patreon_wordpress_login_widget"]
+androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
+androidacy.com##.accordion-collapse
 api.androidacy.com##.card-body.widget_patreon_wordpress_login_widget
 api.androidacy.com##.patreon-widget
-api.androidacy.com##.widget[id^="patreon_wordpress_login_widget"]
-api.androidacy.com##.widget[id^="widget_patreon_wordpress_login_widget"]
+api.androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
+api.androidacy.com##.accordion-collapse
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
