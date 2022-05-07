@@ -311,6 +311,14 @@ androidacy.com##*.widget_patreon_wordpress_login_widget
 androidacy.com##*.widget
 androidacy.com##.card.widget
 androidacy.com##.widget:nth-of-type(n)
+api.androidacy.com##.row > .rounded.border-0
+api.androidacy.com###main-content > .rounded.border-0
+api.androidacy.com##.widget-title
+api.androidacy.com##* > p
+androidacy.com##.widget-title
+androidacy.com##.widget_patreon_wordpress_login_widget
+androidacy.com##section.widget:nth-of-type(n)
+||patreon.com$subdocument
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
