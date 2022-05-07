@@ -335,12 +335,15 @@ sourceforge.net##.social-icons
 ! 2022-04-26 https://www.apkmirror.com
 apkmirror.com##.google-ad-leaderboard
 apkmirror.com##.advertisement-text
-apkmirror.com##.adsbygoogle, .adslot
-apkmirror.com##.advertisement-text
 apkmirror.com##.adslot
 apkmirror.com##.adsbygoogle
 apkmirror.com##.gooWidget
-apkmirror.com##span.advertisement-text
+apkmirror.com##.ains-apkm_outbrain_ad:nth-of-type(n)
+apkmirror.com##.ai-track
+apkmirror.com##.OUTBRAIN
+apkmirror.com##div.listWidget:nth-of-type(7)
+apkmirror.com##.bubble
+apkmirror.com##.footer
 
 ! 2022-05-01 https://taskandpurpose.com
 taskandpurpose.com##.wp-block-quote
