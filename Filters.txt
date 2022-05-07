@@ -319,6 +319,7 @@ androidacy.com##.widget-title
 androidacy.com##.widget_patreon_wordpress_login_widget
 androidacy.com##section.widget:nth-of-type(n)
 ||patreon.com$subdocument
+.patreon.com/platform/iframe?widget=become-patron-button$domain=androidacy.com,subdocument
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
