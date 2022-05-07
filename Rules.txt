@@ -30,6 +30,7 @@ no-large-media: behind-the-scene false
 * betteradsystem.com * block
 * bid.glass * block
 * bidgear.com * block
+* bidswitch.net * block
 * bat.bing.com * block
 * tag.bounceexchange.com * block
 * bugsnag.com * block
@@ -54,6 +55,7 @@ no-large-media: behind-the-scene false
 * dpm.demdex.net * block
 * nbcu.demdex.net * block
 * vodafoneuk.demdex.net * block
+* deployads.com * block
 * disqus.com * block
 * dotmetrics.net * block
 * doubleclick.net * block
@@ -112,6 +114,7 @@ no-large-media: behind-the-scene false
 * cdn.intergi.com * block
 * code.jquery.com * block
 * cdn.jsdelivr.net * block
+* jwpltx.com * block
 * nebula-cdn.kampyle.com * block
 * ads.linkedin.com * block
 * analytics.pointdrive.linkedin.com * block
@@ -153,6 +156,7 @@ no-large-media: behind-the-scene false
 * amplify.outbrain.com * block
 * widgets.outbrain.com * block
 * p1.parsely.com * block
+* perfectaudience.com * block
 * permutive.app * block
 * petametrics.com * block
 * ads.pinterest.com * block
@@ -164,6 +168,7 @@ no-large-media: behind-the-scene false
 * live.primis.tech * block
 * privacy-center.org * block
 * privacymanager.io * block
+* pro-market.net * block
 * a.pub.network * block
 * secure.quantserve.com * block
 * quantummetric.com * block
@@ -175,6 +180,7 @@ no-large-media: behind-the-scene false
 * rereddit.com * block
 * static-ssl.responsetap.com * block
 * get.s-onetag.com * block
+* safestgatetocontent.com * block
 * ak.sail-horizon.com * noop
 * sail-personalize.com * block
 * sail-track.com * block
@@ -200,6 +206,7 @@ no-large-media: behind-the-scene false
 * analytics.global.sky.com * block
 * smetrics.sky.com * block
 * gdpr-tcfv2.sp-prod.net * block
+* spotxchange.com * block
 * www.stack-sonar.com * block
 * taboola.com * block
 * collect.tealiumiq.com * block
@@ -215,6 +222,7 @@ no-large-media: behind-the-scene false
 * dashboard.tinypass.com * block
 * reach-id.orbit.tm-awx.com * block
 * trackonomics.net * block
+* tripolihash.com * block
 * trustarc.com * block
 * widget.trustpilot.com * block
 * s.cdn.turner.com * block
@@ -255,7 +263,10 @@ no-large-media: behind-the-scene false
 * ads.youtube.com * block
 * static.zotabox.com * block
 * segment-data.zqtk.net * block
+www.androidacy.com * 3p-script block
 www.androidauthority.com static.narrativ.com * noop
+www.apkmirror.com * 3p-script block
+www.apkmirror.com * inline-script block
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
