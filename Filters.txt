@@ -301,6 +301,7 @@ androidacy.com##.has-small-font-size
 androidacy.com##.py-5.offset-md-1.col-md-10 > p
 androidacy.com##.site-footer
 androidacy.com##section#patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+androidacy.com##*.widget_patreon_wordpress_login_widget
 api.androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
 api.androidacy.com##.card.widget_patreon_wordpress_login_widget
 api.androidacy.com##.patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
