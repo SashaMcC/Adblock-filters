@@ -296,11 +296,21 @@ androidacy.com##.widget-area
 androidacy.com##.perfecty-push-dialog-container
 androidacy.com##.shadow.mx-auto.card
 androidacy.com##.alert-info
+androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
 androidacy.com##.has-small-font-size
+androidacy.com##.py-5.offset-md-1.col-md-10 > p
 androidacy.com##.site-footer
+androidacy.com##section#patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+androidacy.com##*.widget_patreon_wordpress_login_widget
+api.androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+api.androidacy.com##.card.widget_patreon_wordpress_login_widget
+api.androidacy.com##.patreon_wordpress_login_widget-wghr8rlz9sb.rounded.border-0.bg-light.mb-1.card-body.card.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
+api.androidacy.com##.card-body.widget_patreon_wordpress_login_widget
+api.androidacy.com##*> div > .widget
+androidacy.com##*.widget_patreon_wordpress_login_widget
 androidacy.com##*.widget
-api.androidacy.com##.row > .rounded.border-0
-api.androidacy.com###main-content > .rounded.border-0
+androidacy.com##.card.widget
+androidacy.com##.widget:nth-of-type(n)
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
