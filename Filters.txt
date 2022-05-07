@@ -298,7 +298,7 @@ androidacy.com##.shadow.mx-auto.card
 androidacy.com##.alert-info
 androidacy.com##.has-small-font-size
 androidacy.com##.site-footer
-androidacy.com##*.widget_patreon_wordpress_login_widget.widget
+androidacy.com##*.widget
 api.androidacy.com##.row > .rounded.border-0
 api.androidacy.com###main-content > .rounded.border-0
 
