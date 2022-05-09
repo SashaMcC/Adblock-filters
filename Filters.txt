@@ -310,6 +310,7 @@ api.androidacy.com##.patreon-widget
 api.androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
 api.androidacy.com##.accordion-collapse
 
+
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
 
@@ -332,6 +333,13 @@ readsnk.com###disqus_thread
 arstechnica.com##.comment-count
 arstechnica.com###comments-area
 arstechnica.com###page-footer
+arstechnica.com##.site-footer
+arstechnica.com##.header-highlight-link
+arstechnica.com##.story-sidebar-part
+arstechnica.com##.ars-video-playlist-module
+arstechnica.com##.article-author
+arstechnica.com##.inline-playlist
+arstechnica.com###recommendations-footer
 
 ! 2022-04-21 https://www.bbc.co.uk
 bbc.co.uk##.lx-share-tools__items
@@ -351,6 +359,7 @@ apkmirror.com##.OUTBRAIN
 apkmirror.com##div.listWidget:nth-of-type(7)
 apkmirror.com##.bubble
 apkmirror.com##.footer
+apkmirror.com##.ains
 
 ! 2022-05-01 https://taskandpurpose.com
 taskandpurpose.com##.wp-block-quote
