@@ -109,6 +109,7 @@ no-large-media: behind-the-scene false
 * cdn-gl.imrworldwide.com * block
 * cmpv2.independent.co.uk * block
 * js-sec.indexww.com * block
+* instant.page * block
 * insurads.com * block
 * intellitxt.com * block
 * cdn.intergi.com * block
