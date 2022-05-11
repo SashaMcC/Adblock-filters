@@ -366,3 +366,7 @@ taskandpurpose.com##.wp-block-quote
 
 ! 2022-05-02 https://web.archive.org
 web.archive.org##div.adun:nth-of-type(n)
+
+! 2022-05-11 https://www.techradar.com
+techradar.com##.affiliateDisclaimerBar
+techradar.com##.remixd-audioplayer__container
