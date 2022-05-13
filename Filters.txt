@@ -1,8 +1,11 @@
 ! 2022-02-08 https://boards.4channel.org
 boards.4channel.org##.desktop.title
+boards.4channel.org##.title.desktop
 boards.4channel.org##.center.middlead
 boards.4channel.org###blotter
 boards.4channel.org##.adg-rects
+boards.4channel.org##.adg-rects
+boards.4channel.org##.adg-rects.mobile
 boards.4channel.org##.mobile.adg-rects
 boards.4channel.org##.closed
 boards.4channel.org##.abovePostForm
@@ -13,18 +16,17 @@ boards.4channel.org###bannerCnt
 boards.4channel.org##.title
 boards.4channel.org###delform > .adg-rects
 boards.4channel.org##body > .desktop.adg-rects
-boards.4channel.org##.ad-bgls
+boards.4channel.org##.belowLeaderboard
 boards.4channel.org##.adl
-boards.4channel.org##.adp-250
-||bid.glass/ad/$subdocument
-boards.4chan.org##.adp-250
-boards.4chan.org##.ad-bgls
-boards.4chan.org##.adl
+boards.4channel.org##.aboveMidAd
 boards.4chan.org##.desktop.title
+boards.4chan.org##.title.desktop
 boards.4chan.org##.center.middlead
 boards.4chan.org###blotter
 boards.4chan.org##.adg-rects
 boards.4chan.org##.mobile.adg-rects
+boards.4chan.org##.adg-rects
+boards.4chan.org##.adg-rects.mobile
 boards.4chan.org##.closed
 boards.4chan.org##.abovePostForm
 boards.4chan.org##.aboveMidAd
@@ -34,8 +36,14 @@ boards.4chan.org###bannerCnt
 boards.4chan.org##.title
 boards.4chan.org###delform > .adg-rects
 boards.4chan.org##body > .desktop.adg-rects
+boards.4chan.org##.belowLeaderboard
+boards.4chan.org##.adl
+boards.4chan.org##.aboveMidAd
 ||s.4cdn.org/image/contest_banners/*$image
-
+||bid.glass
+||s.4cdn.org/image/title/*.png
+||s.4cdn.org/image/title/*.jpg
+||s.4cdn.org/image/contest_banners/*.gif
 
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
@@ -57,6 +65,7 @@ xda-developers.com##.ad-zone
 xda-developers.com##.ad-current
 xda-developers.com##.panel-list--social
 xda-developers.com##.w-social
+xda-developers.com##.swiper-container
 forum.xda-developers.com##.structItemContainer-group--sticky
 forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
 forum.xda-developers.com##.uix_noticeInner
@@ -124,6 +133,8 @@ androidpolice.com##.footer_breadcrumb
 9to5google.com##.post-social-mobile
 9to5google.com###js-header-social
 9to5google.com##.trending-items
+9to5google.com##.currently-reading
+9to5google.com##.feed-title-bar
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 
 ! 2022-02-08 https://chromeunboxed.com
@@ -159,7 +170,8 @@ chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.ezo_ad
 chromeunboxed.com##.code-block
 chromeunboxed.com##.ezoic-ad > span
-chromeunboxed.com##.adtester-container
+chromeunboxed.com##.adtester-container.ezoic-ad > .ezoic-ad
+chromeunboxed.com##.ezoic-ad > .ezoic-ad
 
 ! 2022-02-08 https://www.omgubuntu.co.uk
 omgubuntu.co.uk##.header__nav
