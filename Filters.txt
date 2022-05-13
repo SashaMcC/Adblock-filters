@@ -319,7 +319,8 @@ api.androidacy.com##.accordion-collapse
 ||*.patreon.com/$subdocument
 https://www.patreon.com/platform/iframe?widget=become-patron-button&redirectURI=*magisk-modules-repository$domain=www.androidacy.com,subdocument
 androidacy.com##.widget_patreon_wordpress_login_widget
-
+api.androidacy.com##.widget[id^="patreon_message"]
+androidacy.com###wp-sentry-browser-js
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
