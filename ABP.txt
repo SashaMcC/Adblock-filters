@@ -13,3 +13,4 @@ boards.4channel.org##[class*="bidglass"]
 boards.4chan.org##[class*="bidglass"]
 boards.4channel.org##.belowLeaderboard
 boards.4chan.org##.belowLeaderboard
+boards.4channel.org##.closed
