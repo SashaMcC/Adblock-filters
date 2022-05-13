@@ -305,10 +305,17 @@ androidacy.com##.widget :has-text(ads)
 androidacy.com##.patreon-widget
 androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
 androidacy.com##.accordion-collapse
+||androidacy.com/wp-content/plugins/webpushr-web-push-notifications/*$script
+||api.androidacy.com^$script,1p
+||patreon.com/platform/iframe?widget=become-patron-button$subdocument
+patreon.com/platform/iframe?widget=become-patron-button$domain=www.androidacy.com,subdocument
+androidacy.com##webpushrwppromptbox2_wrapper
 api.androidacy.com##.card-body.widget_patreon_wordpress_login_widget
 api.androidacy.com##.patreon-widget
 api.androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
 api.androidacy.com##.accordion-collapse
+||www.patreon.com^$domain=androidacy.com
+||www.patreon.com^$domain=api.androidacy.com
 
 
 ! 2022-04-06 https://news.stv.tv
@@ -370,3 +377,7 @@ web.archive.org##div.adun:nth-of-type(n)
 ! 2022-05-11 https://www.techradar.com
 techradar.com##.affiliateDisclaimerBar
 techradar.com##.remixd-audioplayer__container
+
+! 2022-05-12 https://www.androidcentral.com
+androidcentral.com##.affiliateDisclaimerBar
+androidcentral.com##.buttons-social
