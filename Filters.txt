@@ -15,6 +15,9 @@ boards.4channel.org###delform > .adg-rects
 boards.4channel.org##body > .desktop.adg-rects
 boards.4channel.org##.ad-bgls
 boards.4channel.org##.adl
+boards.4channel.org##.adp-250
+||bid.glass/ad/$subdocument
+boards.4chan.org##.adp-250
 boards.4chan.org##.ad-bgls
 boards.4chan.org##.adl
 boards.4chan.org##.desktop.title
