@@ -7,3 +7,5 @@ boards.4channel.org##.adg-rects
 boards.4channel.org##.adg-rects.mobile
 boards.4chan.org##.adg-rects
 boards.4chan.org##.adg-rects.mobile
+boards.4channel.org##.adl
+boards.4chan.org##.adl
