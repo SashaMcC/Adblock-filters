@@ -13,6 +13,10 @@ boards.4channel.org###bannerCnt
 boards.4channel.org##.title
 boards.4channel.org###delform > .adg-rects
 boards.4channel.org##body > .desktop.adg-rects
+boards.4channel.org##.ad-bgls
+boards.4channel.org##.adl
+boards.4chan.org##.ad-bgls
+boards.4chan.org##.adl
 boards.4chan.org##.desktop.title
 boards.4chan.org##.center.middlead
 boards.4chan.org###blotter
@@ -152,6 +156,7 @@ chromeunboxed.com##.desktopHeaderBanner
 chromeunboxed.com##.ezo_ad
 chromeunboxed.com##.code-block
 chromeunboxed.com##.ezoic-ad > span
+chromeunboxed.com##.adtester-container
 
 ! 2022-02-08 https://www.omgubuntu.co.uk
 omgubuntu.co.uk##.header__nav
