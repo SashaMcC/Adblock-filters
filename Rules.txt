@@ -283,3 +283,6 @@ www.facebook.com www.facebook.com * noop
 www.independent.co.uk ampproject.org * noop
 www.independent.co.uk cdn.ampproject.org * noop
 www.youtube.com googleads.g.doubleclick.net * noop
+* https://api.androidacy.com/wp-content/plugins/patreon-connect/assets/ * block
+* https://www.androidacy.com/wp-content/plugins/patreon-connect/assets/ * block
+* https://c6.patreon.com/becomePatronButton.bundle.js * block
