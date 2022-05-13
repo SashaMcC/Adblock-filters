@@ -1,0 +1,6 @@
+||bid.glass
+||s.4cdn.org/image/title/*.png
+||s.4cdn.org/image/title/*.jpg
+div:-abp-has(span:-abp-contains(ad-bgls))
+boards.4channel.org##.title.desktop
+boards.4chan.org##.title.desktop
