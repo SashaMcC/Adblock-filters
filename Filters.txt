@@ -296,30 +296,13 @@ androidacy.com##.widget-area
 androidacy.com##.perfecty-push-dialog-container
 androidacy.com##.shadow.mx-auto.card
 androidacy.com##.alert-info
-androidacy.com##.widget_patreon_wordpress_login_widget.widget:nth-of-type(n)
 androidacy.com##.has-small-font-size
 androidacy.com##.site-footer
-androidacy.com##.card.widget
-androidacy.com##.widget:nth-of-type(n)
-androidacy.com##.widget :has-text(ads)
+androidacy.com##.widget :has-text(patreon)
 androidacy.com##.patreon-widget
 androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
 androidacy.com##.accordion-collapse
-||androidacy.com/wp-content/plugins/webpushr-web-push-notifications/*$script
-||api.androidacy.com^$script,1p
-||patreon.com/platform/iframe?widget=become-patron-button$subdocument
-patreon.com/platform/iframe?widget=become-patron-button$domain=www.androidacy.com,subdocument
-androidacy.com##webpushrwppromptbox2_wrapper
-api.androidacy.com##.card-body.widget_patreon_wordpress_login_widget
-api.androidacy.com##.patreon-widget
-api.androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
-api.androidacy.com##.accordion-collapse
-||www.patreon.com^$domain=androidacy.com
-||www.patreon.com^$domain=api.androidacy.com
-||*.patreon.com/$subdocument
-https://www.patreon.com/platform/iframe?widget=become-patron-button&redirectURI=*magisk-modules-repository$domain=www.androidacy.com,subdocument
 androidacy.com##.widget_patreon_wordpress_login_widget
-api.androidacy.com##.widget[id^="patreon_message"]
 androidacy.com###wp-sentry-browser-js
 
 ! 2022-04-06 https://news.stv.tv
