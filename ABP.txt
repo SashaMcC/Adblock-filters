@@ -1,6 +1,7 @@
 ||bid.glass
 ||s.4cdn.org/image/title/*.png
 ||s.4cdn.org/image/title/*.jpg
+||s.4cdn.org/image/contest_banners/*.gif
 boards.4channel.org##.title.desktop
 boards.4channel.org##.adg-rects
 boards.4channel.org##.adg-rects.mobile
