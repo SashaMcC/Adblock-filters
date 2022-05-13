@@ -172,6 +172,9 @@ chromeunboxed.com##.code-block
 chromeunboxed.com##.ezoic-ad > span
 chromeunboxed.com##.adtester-container.ezoic-ad > .ezoic-ad
 chromeunboxed.com##.ezoic-ad > .ezoic-ad
+chromeunboxed.com##[class^="ezo"]
+chromeunboxed.com##[class^="ezmob"]
+chromeunboxed.com##[class$="-ad"]
 
 ! 2022-02-08 https://www.omgubuntu.co.uk
 omgubuntu.co.uk##.header__nav
