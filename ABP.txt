@@ -11,3 +11,5 @@ boards.4channel.org##.adl
 boards.4chan.org##.adl
 boards.4channel.org##[class*="bidglass"]
 boards.4chan.org##[class*="bidglass"]
+boards.4channel.org##.belowLeaderboard
+boards.4chan.org##.belowLeaderboard
