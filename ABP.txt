@@ -20,3 +20,12 @@ boards.4chan.org##.aboveMidAd
 boards.4chan.org##.belowLeaderboard
 boards.4chan.org##.middlead.center
 boards.4chan.org##.closed
+xda-developers.com##.swiper-container
+xda-developers.com###footer
+xda-developers.com##.tagbar
+m.gsmarena.com##.pricing
+m.gsmarena.com##.price-banner
+9to5google.com##.currently-reading
+9to5google.com##.feed-title-bar
+chromeunboxed.com##.desktopHeaderBanner
+chromeunboxed.com##.wp-container-2.wp-block-group.newsletterSignupBlock
