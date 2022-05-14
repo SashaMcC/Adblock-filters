@@ -1,399 +1,98 @@
-! 2022-02-08 https://boards.4channel.org
-boards.4channel.org##.desktop.title
-boards.4channel.org##.title.desktop
-boards.4channel.org##.center.middlead
-boards.4channel.org###blotter
-boards.4channel.org##.adg-rects
-boards.4channel.org##.adg-rects
-boards.4channel.org##.adg-rects.mobile
-boards.4channel.org##.mobile.adg-rects
-boards.4channel.org##.closed
-boards.4channel.org##.abovePostForm
-boards.4channel.org##.aboveMidAd
-boards.4channel.org##hr:nth-of-type(n)
-boards.4channel.org##.absBotText
-boards.4channel.org###bannerCnt
-boards.4channel.org##.title
-boards.4channel.org###delform > .adg-rects
-boards.4channel.org##body > .desktop.adg-rects
-boards.4channel.org##.belowLeaderboard
-boards.4channel.org##.adl
-boards.4channel.org##.aboveMidAd
-boards.4chan.org##.desktop.title
-boards.4chan.org##.title.desktop
-boards.4chan.org##.center.middlead
-boards.4chan.org###blotter
-boards.4chan.org##.adg-rects
-boards.4chan.org##.mobile.adg-rects
-boards.4chan.org##.adg-rects
-boards.4chan.org##.adg-rects.mobile
-boards.4chan.org##.closed
-boards.4chan.org##.abovePostForm
-boards.4chan.org##.aboveMidAd
-boards.4chan.org##hr:nth-of-type(n)
-boards.4chan.org##.absBotText
-boards.4chan.org###bannerCnt
-boards.4chan.org##.title
-boards.4chan.org###delform > .adg-rects
-boards.4chan.org##body > .desktop.adg-rects
-boards.4chan.org##.belowLeaderboard
-boards.4chan.org##.adl
-boards.4chan.org##.aboveMidAd
-||s.4cdn.org/image/contest_banners/*$image
-||bid.glass
-||s.4cdn.org/image/title/*.png
-||s.4cdn.org/image/title/*.jpg
-||s.4cdn.org/image/contest_banners/*.gif
 
-! 2022-02-08 https://www.xda-developers.com
-xda-developers.com###footer
-xda-developers.com##.sidebar
-xda-developers.com##.comments-block
-xda-developers.com##.author_box
-xda-developers.com###about-author-wrapper
-xda-developers.com###breadcrumbs
-xda-developers.com###affiliate-warning-container
-xda-developers.com##.tagbar
-xda-developers.com##.full_meta
-xda-developers.com##.comments
-xda-developers.com##.item_meta
-xda-developers.com###disqus_thread
-xda-developers.com###post-tags-wrapper
-xda-developers.com##.et_social_mobile_off
-xda-developers.com##em
-xda-developers.com##.ad-zone
-xda-developers.com##.ad-current
-xda-developers.com##.panel-list--social
-xda-developers.com##.w-social
-xda-developers.com##.swiper-container
-forum.xda-developers.com##.structItemContainer-group--sticky
-forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
-forum.xda-developers.com##.uix_noticeInner
-forum.xda-developers.com##.p-body-sidebar
-forum.xda-developers.com##.p-navgroup-link--whatsnew
-forum.xda-developers.com##.p-footer
-||media.pocketnow.com/styles/medium/public/2022-02/mwc-2022-lenovo.png$image
-forum.xda-developers.com###xdadevelopers_leaderboard_atf
-forum.xda-developers.com###xdadevelopers_leaderboard_btf
+Linux x86_64
+Sun, 3 Apr 2022, 20:19:11 BST
 
-! 2022-02-08 https://www.gsmarena.com
-gsmarena.com###social-connect
-gsmarena.com##.pricing
-gsmarena.com##.sub-footer
-gsmarena.com###footer
-gsmarena.com##.social
-gsmarena.com##.price-banner
-gsmarena.com###topAdv
-gsmarena.com##.adv
-gsmarena.com##.ad-label
-gsmarena.com##.module
-gsmarena.com##[href="deals.php3"]
-gsmarena.com###menu [href="https://merch.gsmarena.com/"]
 
-! 2022-02-08 https://www.androidpolice.com
-androidpolice.com##.sidebar
-androidpolice.com##.ad-zone
-androidpolice.com##.bc-comment-count
-androidpolice.com##.js-content .bc-info > .bc-details
-androidpolice.com##.heading_meta
-androidpolice.com##.heading_sharing
-androidpolice.com##.sharing
-androidpolice.com###disqus_thread
-androidpolice.com##.w-article-author-bio
-androidpolice.com###article-body > .section-sub-title
-androidpolice.com##.next-btn
-androidpolice.com##.article-tags
-androidpolice.com##.w-article-related
-androidpolice.com##.w-footer
-androidpolice.com##.heading_breadcrumb
-androidpolice.com##.w-menu-follow
-androidpolice.com##.bc-comment-count
-androidpolice.com##.dynamically-injected-refresh-ad-zone
-androidpolice.com##.ad-zone-size-container
-androidpolice.com##.adsninja-ad-zone
-androidpolice.com##.heading_sharing
-androidpolice.com###ad-zone-container-AP-Reg-Org
-androidpolice.com##.section-header
-androidpolice.com##.listing-header
-androidpolice.com##.footer_breadcrumb
-||disqus.com$subdocument
-||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
+One filter per line. A filter can be a plain hostname, or an EasyList-compatible filter. Lines prefixed with ! will be ignored. 
 
-! 2022-02-08 https://9to5google.com
-9to5google.com##.slick-slider
-9to5google.com##div.feed-title-bar
-9to5google.com##.post-body.comments-area
-9to5google.com##.post-meta
-9to5google.com##.comments
-9to5google.com##.author-bio-container
-9to5google.com##.aside-post-meta
-9to5google.com##.show-promo
-9to5google.com##.inlinead
-9to5google.com##.slick-list
-9to5google.com##.post-social-mobile
-9to5google.com###js-header-social
-9to5google.com##.trending-items
-9to5google.com##.currently-reading
-9to5google.com##.feed-title-bar
-||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 
-! 2022-02-08 https://chromeunboxed.com
-chromeunboxed.com##.crp_related
-chromeunboxed.com##.newsletterSignupBlock
-chromeunboxed.com##.site-footer
-chromeunboxed.com##.sd-sharing
-chromeunboxed.com##.entry-footer
-chromeunboxed.com##.author-box
-chromeunboxed.com###disqus_thread
-chromeunboxed.com##.entry-meta
-chromeunboxed.com##.remixd-frame
-chromeunboxed.com##.remixd-audio-player
-chromeunboxed.com##.taxonomy-description
-chromeunboxed.com###mobile-genesis-nav-primary
-chromeunboxed.com##.widget-area.sidebar
-chromeunboxed.com###skimlinks_referral_button_1
-||s.skimresources.com/banners$image
-||chromeunboxed.com/wp-content/uploads/2021/11/Workspace-Sessions-Logo-Final*.png$image
-||chromeunboxed.com/ezoimgfmt/www.toptal.com/designers/subtlepatterns/patterns/greyzz.png$image
-||chromeunboxed.com/ezoimgfmt/secure.gravatar.com/$image
-chromeunboxed.com##.desktopHeaderBanner
-chromeunboxed.com##.ezmob-footer-mobile
-chromeunboxed.com##.ezoic-ad-adaptive
-chromeunboxed.com##.code-block
-chromeunboxes.com##.ezoic-ad-adaptive.adtester-container
-chromeunboxed.com##.ezoic-ad
-chromeunboxed.com##.adtester-container
-chromeunboxed.com##span.adtester-container
-chromeunboxed.com##.ezoic-ad:nth-of-type(n)
-chromeunboxed.com##.courtesyNav
-chromeunboxed.com##.desktopHeaderBanner
-chromeunboxed.com##.ezo_ad
-chromeunboxed.com##.code-block
-chromeunboxed.com##.ezoic-ad > span
-chromeunboxed.com##.adtester-container.ezoic-ad > .ezoic-ad
-chromeunboxed.com##.ezoic-ad > .ezoic-ad
-chromeunboxed.com##[class^="ezo"]
-chromeunboxed.com##[class^="ezmob"]
-chromeunboxed.com##[class$="-ad"]
+Apply changes
+ 
+Revert
+   
+Import and append
+ 
+Export
 
-! 2022-02-08 https://www.omgubuntu.co.uk
-omgubuntu.co.uk##.header__nav
-omgubuntu.co.uk##.header__socials
-omgubuntu.co.uk##.splide__slide
-omgubuntu.co.uk##.sidebar
-omgubuntu.co.uk##.page-footer
-omgubuntu.co.uk##.homepage-layout.tile-layout--3x.tile-layout.topic-layout
-omgubuntu.co.uk##div.layout__header--with-divider.layout__header:nth-of-type(5)
-omgubuntu.co.uk##.widget_omg_related_posts.widget
-omgubuntu.co.uk###disqus_thread
-omgubuntu.co.uk##.CookieWarning
-omgubuntu.co.uk##.disqus-comment-count
-omgubuntu.co.uk##.post-meta
-omgubuntu.co.uk##.omg-socials
-omgubuntu.co.uk##.post-links
-omgubuntu.co.uk##.breadcrumbs
-omgubuntu.co.uk##.header__socials--mobile
-omgubuntu.co.uk##.omg-promoted-story
-omgubuntu.co.uk##.omg-social-proof
-omgubuntu.co.uk##.embed-container
-omgubuntu.co.uk##.portholes-layout
-omgubuntu.co.uk##div.has-subtitle.has-title.with-divider.layout__header:nth-of-type(n)
-omgubuntu.co.uk##div.has-title.with-divider.layout__header:nth-of-type(n)
-omgubuntu.co.uk##div.layout__subtitle:nth-of-type(n)
-
-! 2022-02-08 https://9to5linux.com
-9to5linux.com##.widget-area
-9to5linux.com###disqus_thread
-9to5linux.com##.entry-meta
-9to5linux.com##.category-list
-9to5linux.com##.bm-social-sharing
-9to5linux.com##.entry-footer
-9to5linux.com##.site-info
-9to5linux.com##.cli-modal-dialog
-9to5linux.com##.adsbygoogle
-9to5linux.com##.code-block
-9to5linux.com##.cli-bar-popup
-
-! 2022-02-08 https://linuxiac.com
-linuxiac.com###secondary > .theiaStickySidebar
-linuxiac.com##.comments-area
-linuxiac.com##.fox-related-posts
-linuxiac.com##.share-layout-stack
-linuxiac.com##.fox-bottom-posts
-linuxiac.com##.site-footer
-linuxiac.com##.wi-titlebar.headline
-linuxiac.com##.post-item-meta
-linuxiac.com##.ct-hidden-sm
-linuxiac.com##.ct-social-box
-linuxiac.com##.meta-categories
-linuxiac.com##.entry-meta
-linuxiac.com##.ct-comments-container
-linuxiac.com##.ct-related-posts-container
-linuxiac.com##.ct-footer
-linuxiac.com###sidebar
-linuxiac.com##.ct-share-box
-linuxiac.com##.ct-header-socials
-linuxiac.com###comments
-
-! 2022-02-08 https://www.reddit.com
-reddit.com##._1FUNcfOeszr8eruqLxCMcR
-reddit.com##._1tvThPWQpORoc2taKebHxs._3Kd8DQpBIbsr5E1JcrMFTY
-reddit.com##._1vXXD2qKLnHetdKvisFzBD
-reddit.com##._1x6pySZ2CoUnAfsFhGe7J1
-reddit.com##._1dJtiWITrnvIbQdXgYgdym.jEUbSHJJx8vISKpWirlfx
-reddit.com##.promotedlink
-reddit.com##.scrollerItem:has-text(Top broadcast)
-reddit.com##.scrollerItem:has-text(Top livestream)
-reddit.com###COIN_PURCHASE_DROPDOWN_ID
-reddit.com##._24UNt1hkbrZxLzs5vkvuDh
-reddit.com##._31AVRNJbVMh2DUFRrpCQcD
-reddit.com##._20b4i5iUhjZQqDZ1BM_Q-9._2Xq-4oyrEvHjL5U_EeMnK8
-
-! 2022-02-09 https://www.androidcentral.com
-androidcentral.com##.article-header__disclosure
-androidcentral.com##.js-comments-toggle
-
-! 2022-02-09 https://fextralife.com
-fextralife.com##.footer-sticky
-fextralife.com###sidebar-wrapper
-fextralife.com##.ios-fix > .hidden-xs
-fextralife.com###discussions-section
-fextralife.com##footer
-
-! 2022-02-09 https://.fandom.com
-fandom.com##.page-side-tools
-fandom.com##.global-navigation
-fandom.com##.lastEdited
-fandom.com##.WikiaRail.right-rail-wrapper
-fandom.com##.page__right-rail
-fandom.com###articleComments
-fandom.com###mixed-content-footer
-fandom.com##.global-footer
-fandom.com###page-creator
-
-! 2022-02-12 https://addons.mozilla.org
-addons.mozilla.org##.Notice
-
-! 2022-02-25 https://knowyourmeme.com
-knowyourmeme.com###leaderboard
-knowyourmeme.com##.scroll.redesign.wrap.longcat
-
-! 2022-03-16 https://itwire.com
-itwire.com##.eb-visible
-
-! 2022-03-20 https://www.google.com
-google.*##^script:has-text(consentCookiePayload)
-google.*##+js(acis, document.cookie, YES+)
-google.*##+js(aeld, DOMContentLoaded, CONSENT)
-
-! 2022-03-26 https://w2.0123movies.ltd
-w2.0123movies.ltd##iframe:nth-of-type(n)
-
-! 2022-03-29 https://www.thetimes.co.uk
-thetimes.co.uk###paywall-portal-sale-modal
-
-! 2022-04-05 https://readberserk.com
-readberserk.com##.card
-
-! 2022-04-05 https://www.androidacy.com
-androidacy.com##ins.adsbygoogle:nth-of-type(n)
-androidacy.com##.widget-area
-androidacy.com##.perfecty-push-dialog-container
-androidacy.com##.shadow.mx-auto.card
-androidacy.com##.alert-info
-androidacy.com##.has-small-font-size
-androidacy.com##.site-footer
-androidacy.com##.patreon-widget
-androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
-androidacy.com##.accordion-collapse
-androidacy.com##.widget_patreon_wordpress_login_widget
-androidacy.com###wp-sentry-browser-js
-androidacy.com##[class^="widget"]
-androidacy.com##em
-androidacy.com##p:nth-of-type(6)
-androidacy.com##p:nth-of-type(5)
-androidacy.com##[class$="ad"]
-
-! 2022-04-06 https://news.stv.tv
-news.stv.tv##aside:nth-of-type(n)
-
-! 2022-04-06 https://gogoanime.fi
-gogoanime.*##.notice-400
-
-! 2022-04-06 https://www.funimation.com
-funimation.com##.v-bottom-sheet.v-dialog
-
-! 2022-04-07 https://www.theguardian.com
-theguardian.com###sp_message_container_631096
-
-! 2022-04-08 https://ww7.readsnk.com
-readsnk.com##.aligncenter
-readsnk.com##.my-3.justify-center.items-center.flex-wrap.flex
-readsnk.com##.my-3.p-3.text-orange-700.border-orange-500.border-l-4.bg-orange-100
-readsnk.com###disqus_thread
-
-! 2022-04-21 https://arstechnica.com
-arstechnica.com##.comment-count
-arstechnica.com###comments-area
-arstechnica.com###page-footer
-arstechnica.com##.site-footer
-arstechnica.com##.header-highlight-link
-arstechnica.com##.story-sidebar-part
-arstechnica.com##.ars-video-playlist-module
-arstechnica.com##.article-author
-arstechnica.com##.inline-playlist
-arstechnica.com###recommendations-footer
-
-! 2022-04-21 https://www.bbc.co.uk
-bbc.co.uk##.lx-share-tools__items
-
-! 2022-04-24 https://sourceforge.net
-sourceforge.net##.social-icons
-
-! 2022-04-26 https://www.apkmirror.com
-apkmirror.com##.google-ad-leaderboard
-apkmirror.com##.advertisement-text
-apkmirror.com##.adslot
-apkmirror.com##.adsbygoogle
-apkmirror.com##.gooWidget
+356
 apkmirror.com##.ains-apkm_outbrain_ad:nth-of-type(n)
+357
 apkmirror.com##.ai-track
+358
 apkmirror.com##.OUTBRAIN
+359
 apkmirror.com##div.listWidget:nth-of-type(7)
+360
 apkmirror.com##.bubble
+361
 apkmirror.com##.footer
+362
 apkmirror.com##.ains
-
+363
+​
+364
 ! 2022-05-01 https://taskandpurpose.com
+365
 taskandpurpose.com##.wp-block-quote
-
+366
+​
+367
 ! 2022-05-02 https://web.archive.org
+368
 web.archive.org##div.adun:nth-of-type(n)
-
+369
+​
+370
 ! 2022-05-11 https://www.techradar.com
+371
 techradar.com##.affiliateDisclaimerBar
+372
 techradar.com##.remixd-audioplayer__container
-
+373
+​
+374
 ! 2022-05-12 https://www.androidcentral.com
+375
 androidcentral.com##.affiliateDisclaimerBar
+376
 androidcentral.com##.buttons-social
-
+377
+​
+378
 ! 2022-05-14 https://www.androidauthority.com
+379
 androidauthority.com##.-yc
+380
 androidauthority.com##div.-Hc.-X.-s.-Gc:nth-of-type(n)
+381
 androidauthority.com##.-jf.-gf
+382
 androidauthority.com##.-sc
+383
 androidauthority.com##.-Tb.-mh
+384
 androidauthority.com##.-Xf
+385
 androidauthority.com##.-yh
+386
 androidauthority.com##div.-dl:nth-of-type(4)
+387
 androidauthority.com##div.-Hc.-lh.-Gc:nth-of-type(n)
+388
 androidauthority.com##.-sm.-Yc.-r
+389
 androidauthority.com##div.-Ic.-lh.-Gc:nth-of-type(n)
-
+390
+​
+391
 ! 2022-05-14 https://www.reuters.com
+392
 reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
+393
 reuters.com##.home-ticker-v2__body__2ovuF
+394
 reuters.com##[class^="product-"]
+395
 reuters.com##[class^="site-footer"]
+396
 reuters.com##[class^="spacing-container"]
