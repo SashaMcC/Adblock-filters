@@ -292,24 +292,6 @@ w2.0123movies.ltd##iframe:nth-of-type(n)
 ! 2022-03-29 https://www.thetimes.co.uk
 thetimes.co.uk###paywall-portal-sale-modal
 
-! 2022-03-29 https://www.androidauthority.com
-androidauthority.com##.-ad
-androidauthority.com##div.-lc.-Y.-e.-kc:nth-of-type(n)
-androidauthority.com##.-qf
-androidauthority.com##.-kc
-androidauthority.com##.-yf
-androidauthority.com##.-yh
-androidauthority.com##.-uc
-androidauthority.com##.-Dc
-androidauthority.com##.-Oc
-androidauthority.com##.-nf.-mf.-jf
-androidauthority.com##.-kh
-androidauthority.com##.-Wb.-Tb.-jh
-androidauthority.com##.-Tb.-jh
-androidauthority.com##a.-sh:nth-of-type(n)
-androidauthority.com##.in-article-video
-androidauthority.com##.-mf.-jf
-
 ! 2022-04-05 https://readberserk.com
 readberserk.com##.card
 
@@ -321,12 +303,16 @@ androidacy.com##.shadow.mx-auto.card
 androidacy.com##.alert-info
 androidacy.com##.has-small-font-size
 androidacy.com##.site-footer
-androidacy.com##.widget :has-text(patreon)
 androidacy.com##.patreon-widget
 androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
 androidacy.com##.accordion-collapse
 androidacy.com##.widget_patreon_wordpress_login_widget
 androidacy.com###wp-sentry-browser-js
+androidacy.com##[class^="widget"]
+androidacy.com##em
+androidacy.com##p:nth-of-type(6)
+androidacy.com##p:nth-of-type(5)
+androidacy.com##[class$="ad"]
 
 ! 2022-04-06 https://news.stv.tv
 news.stv.tv##aside:nth-of-type(n)
@@ -391,3 +377,23 @@ techradar.com##.remixd-audioplayer__container
 ! 2022-05-12 https://www.androidcentral.com
 androidcentral.com##.affiliateDisclaimerBar
 androidcentral.com##.buttons-social
+
+! 2022-05-14 https://www.androidauthority.com
+androidauthority.com##.-yc
+androidauthority.com##div.-Hc.-X.-s.-Gc:nth-of-type(n)
+androidauthority.com##.-jf.-gf
+androidauthority.com##.-sc
+androidauthority.com##.-Tb.-mh
+androidauthority.com##.-Xf
+androidauthority.com##.-yh
+androidauthority.com##div.-dl:nth-of-type(4)
+androidauthority.com##div.-Hc.-lh.-Gc:nth-of-type(n)
+androidauthority.com##.-sm.-Yc.-r
+androidauthority.com##div.-Ic.-lh.-Gc:nth-of-type(n)
+
+! 2022-05-14 https://www.reuters.com
+reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
+reuters.com##.home-ticker-v2__body__2ovuF
+reuters.com##[class^="product-"]
+reuters.com##[class^="site-footer"]
+reuters.com##[class^="spacing-container"]
