@@ -59,12 +59,10 @@ xda-developers.com##.comments
 xda-developers.com##.item_meta
 xda-developers.com###disqus_thread
 xda-developers.com###post-tags-wrapper
-xda-developers.com##.et_social_mobile_off
+xda-developers.com##[class$="social"]
+xda-developers.com##[class^="et"]
 xda-developers.com##em
-xda-developers.com##.ad-zone
-xda-developers.com##.ad-current
-xda-developers.com##.panel-list--social
-xda-developers.com##.w-social
+xda-developers.com##[class^="ad"]
 xda-developers.com##.swiper-container
 forum.xda-developers.com##.structItemContainer-group--sticky
 forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
@@ -286,8 +284,6 @@ google.*##^script:has-text(consentCookiePayload)
 google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 
-! 2022-03-26 https://w2.0123movies.ltd
-w2.0123movies.ltd##iframe:nth-of-type(n)
 
 ! 2022-03-29 https://www.thetimes.co.uk
 thetimes.co.uk###paywall-portal-sale-modal
