@@ -383,6 +383,10 @@ androidauthority.com##div.-dl:nth-of-type(4)
 androidauthority.com##div.-Hc.-lh.-Gc:nth-of-type(n)
 androidauthority.com##.-sm.-Yc.-r
 androidauthority.com##div.-Ic.-lh.-Gc:nth-of-type(n)
+androidauthority.com##.-id > p
+androidauthority.com##.-Dc
+androidauthority.com##.-zc.-wc
+androidauthority.com##div.-Id.-ab.-r.-Hd:nth-of-type(n)
 
 ! 2022-05-14 https://www.reuters.com
 reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
