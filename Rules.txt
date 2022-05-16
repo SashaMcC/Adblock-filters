@@ -23,6 +23,7 @@ no-large-media: behind-the-scene false
 * metrics.apple.com * block
 * securemetrics.apple.com * block
 * supportmetrics.apple.com * block
+* asemskull.com * block
 * assoc-amazon.com * block
 * aswpsdkus.com * block
 * api.bam-x.com * block
@@ -61,7 +62,9 @@ no-large-media: behind-the-scene false
 * doubleclick.net * block
 * securepubads.g.doubleclick.net * block
 * www.dwin1.com * block
+* dyh1wzegu1j6z.cloudfront.net * block
 * www.everestjs.net * block
+* ezoic.net * block
 * ads.facebook.com * block
 * an.facebook.com * block
 * analytics.facebook.com * block
@@ -80,6 +83,8 @@ no-large-media: behind-the-scene false
 * app.getsentry.com * noop
 * analytics.getshogun.com * block
 * go-mpulse.net * block
+* gomo.to * noop
+* gomostream.com * noop
 * google-analytics.com * block
 * ads.google.com * block
 * adservice.google.com * block
@@ -102,6 +107,7 @@ no-large-media: behind-the-scene false
 * logbak.hicloud.com * block
 * logservice.hicloud.com * block
 * logservice1.hicloud.com * block
+* histats.com * block
 * hotjar-analytics.com * block
 * hotjar.com * block
 * metrics.icloud.com * block
@@ -119,6 +125,7 @@ no-large-media: behind-the-scene false
 * nebula-cdn.kampyle.com * block
 * ads.linkedin.com * block
 * analytics.pointdrive.linkedin.com * block
+* lousierphones.com * block
 * luckyorange.com * block
 * luckyorange.net * block
 * media.net * block
@@ -156,6 +163,7 @@ no-large-media: behind-the-scene false
 * optimizely.com * block
 * amplify.outbrain.com * block
 * widgets.outbrain.com * block
+* parkdumbest.com * block
 * p1.parsely.com * block
 * perfectaudience.com * block
 * permutive.app * block
@@ -195,21 +203,26 @@ no-large-media: behind-the-scene false
 * business.samsungusa.com * block
 * sc-static.net * block
 * scorecardresearch.com * block
+* scroll.com * block
 * config.seedtag.com * block
+* segment.com * block
 * cdn.segment.com * block
 * servebom.com * block
 * native.sharethrough.com * block
 * sdk.sharethrough.com * block
+* shipmentphraseroof.com * block
 * monorail-edge.shopifysvc.com * block
 * r.skimresources.com * block
 * s.skimresources.com * block
 * analytics.faw.sky.com * block
 * analytics.global.sky.com * block
 * smetrics.sky.com * block
+* sophi.io * block
 * gdpr-tcfv2.sp-prod.net * block
 * spotxchange.com * block
 * www.stack-sonar.com * block
 * taboola.com * block
+* talbotthrall.com * block
 * collect.tealiumiq.com * block
 * smetrics.telegraph.co.uk * block
 * ophan.theguardian.com * block
@@ -224,6 +237,7 @@ no-large-media: behind-the-scene false
 * reach-id.orbit.tm-awx.com * block
 * trackonomics.net * block
 * tripolihash.com * block
+* tru.am * block
 * trustarc.com * block
 * widget.trustpilot.com * block
 * s.cdn.turner.com * block
@@ -240,6 +254,8 @@ no-large-media: behind-the-scene false
 * smetrics.vodafone.co.uk * block
 * webcontentassessor.com * block
 * analytics.webpushr.com * block
+* bot.webpushr.com * block
+* cdn.webpushr.com * block
 * wishjus.com * block
 * pixel.wp.com * block
 * stats.wp.com * block
