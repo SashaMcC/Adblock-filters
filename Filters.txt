@@ -78,6 +78,7 @@ forum.xda-developers.com###xdadevelopers_leaderboard_btf
 gsmarena.com###social-connect
 gsmarena.com##.pricing
 gsmarena.com##.sub-footer
+gsmarena.com##footer
 gsmarena.com###footer
 gsmarena.com##.social
 gsmarena.com##.price-banner
@@ -393,6 +394,11 @@ androidauthority.com##.-Eg
 androidauthority.com##.-Ad.-q
 androidauthority.com##.-uc
 androidauthority.com##div.-Jd.-Rh.-Hd:nth-of-type(n)
+androidauthority.com##.in-article-video
+androidauthority.com##.-i.-h.-yi
+androidauthority.com##.-l.-jd > .-cd
+androidauthority.com##.-kd
+androidauthority.com##a.-ji:nth-of-type(n)
 
 
 ! 2022-05-14 https://www.reuters.com
