@@ -397,6 +397,9 @@ androidauthority.com##div.-Jd.-Rh.-Hd:nth-of-type(n)
 androidauthority.com##.-ec
 androidauthority.com##.-De
 androidauthority.com##div.-ad.-d.-i.-_c:nth-of-type(n)
+androidauthority.com##.-ze.-we
+androidauthority.com##.-De
+androidauthority.com##.-ec > p
 
 
 ! 2022-05-14 https://www.reuters.com
