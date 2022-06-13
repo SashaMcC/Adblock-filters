@@ -19,6 +19,7 @@ boards.4channel.org##body > .desktop.adg-rects
 boards.4channel.org##.belowLeaderboard
 boards.4channel.org##.adl
 boards.4channel.org##.aboveMidAd
+boards.4channel.org##.adc-resp-bg
 boards.4chan.org##.desktop.title
 boards.4chan.org##.title.desktop
 boards.4chan.org##.center.middlead
@@ -39,6 +40,7 @@ boards.4chan.org##body > .desktop.adg-rects
 boards.4chan.org##.belowLeaderboard
 boards.4chan.org##.adl
 boards.4chan.org##.aboveMidAd
+boards.4chan.org##.adc-resp-bg
 ||s.4cdn.org/image/contest_banners/*$image
 ||bid.glass
 ||s.4cdn.org/image/title/*.png
@@ -115,6 +117,7 @@ androidpolice.com###ad-zone-container-AP-Reg-Org
 androidpolice.com##.section-header
 androidpolice.com##.listing-header
 androidpolice.com##.footer_breadcrumb
+androidpolice.com##.w-article-author-bio-expand
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
