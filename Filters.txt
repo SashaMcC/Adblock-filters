@@ -356,10 +356,12 @@ apkmirror.com##.gooWidget
 apkmirror.com##.ains-apkm_outbrain_ad:nth-of-type(n)
 apkmirror.com##.ai-track
 apkmirror.com##.OUTBRAIN
-apkmirror.com##div.listWidget:nth-of-type(7)
 apkmirror.com##.bubble
 apkmirror.com##.footer
 apkmirror.com##.ains
+apkmirror.com##.advertisement-text
+apkmirror.com##.adslot
+apkmirror.com##.adsbygoogle
 
 ! 2022-05-01 https://taskandpurpose.com
 taskandpurpose.com##.wp-block-quote
