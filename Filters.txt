@@ -118,6 +118,7 @@ androidpolice.com##.section-header
 androidpolice.com##.listing-header
 androidpolice.com##.footer_breadcrumb
 androidpolice.com##.w-article-author-bio-expand
+androidpolice.com##.w-pencil-banner
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
@@ -405,6 +406,27 @@ androidauthority.com##div.-ad.-d.-i.-_c:nth-of-type(n)
 androidauthority.com##.-ze.-we
 androidauthority.com##.-De
 androidauthority.com##.-ec > p
+androidauthority.com##.--Oc.--Wb.--Nc
+androidauthority.com##.--xc.--uc
+androidauthority.com##.--Rb
+androidauthority.com##.--Qi.--s
+androidauthority.com##.--4c
+androidauthority.com##.--Cc
+androidauthority.com##.--Bc
+androidauthority.com##.--dc
+androidauthority.com##.--dc > p
+androidauthority.com##a.--Gi:nth-of-type(n)
+androidauthority.com##.--Ri
+androidauthority.com##.--Qi.--s
+androidauthority.com##.--ki.--Zl
+androidauthority.com##.--rm.--hi.--jm
+androidauthority.com##.--Yl.--3b
+androidauthority.com##.--Yl.---b.--t
+androidauthority.com##.--Vc
+androidauthority.com##.--j.--i.--0i
+androidauthority.com##.--m.--Uc > .--Jc
+androidauthority.com##.--e.--jc
+androidauthority.com##.in-article-video
 
 
 ! 2022-05-14 https://www.reuters.com
