@@ -138,6 +138,7 @@ androidpolice.com##.w-pencil-banner
 9to5google.com##.trending-items
 9to5google.com##.currently-reading
 9to5google.com##.feed-title-bar
+9to5google.com##.news-feed-header
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 
 ! 2022-02-08 https://chromeunboxed.com
@@ -289,7 +290,6 @@ google.*##^script:has-text(consentCookiePayload)
 google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 
-
 ! 2022-03-29 https://www.thetimes.co.uk
 thetimes.co.uk###paywall-portal-sale-modal
 
@@ -427,7 +427,7 @@ androidauthority.com##.--j.--i.--0i
 androidauthority.com##.--m.--Uc > .--Jc
 androidauthority.com##.--e.--jc
 androidauthority.com##.in-article-video
-
+androidauthority.com##.--Ib.--6f
 
 ! 2022-05-14 https://www.reuters.com
 reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
