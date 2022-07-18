@@ -20,6 +20,8 @@ boards.4channel.org##.belowLeaderboard
 boards.4channel.org##.adl
 boards.4channel.org##.aboveMidAd
 boards.4channel.org##.adc-resp-bg
+boards.4channel.org##.globalMessage
+boards.4channel.org##.collapseIcon
 boards.4chan.org##.desktop.title
 boards.4chan.org##.title.desktop
 boards.4chan.org##.center.middlead
@@ -41,6 +43,8 @@ boards.4chan.org##.belowLeaderboard
 boards.4chan.org##.adl
 boards.4chan.org##.aboveMidAd
 boards.4chan.org##.adc-resp-bg
+boards.4chan.org##.globalMessage
+boards.4chan.org##.collapseIcon
 ||s.4cdn.org/image/contest_banners/*$image
 ||bid.glass
 ||s.4cdn.org/image/title/*.png
@@ -76,6 +80,7 @@ forum.xda-developers.com##.p-footer
 ||media.pocketnow.com/styles/medium/public/2022-02/mwc-2022-lenovo.png$image
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
 forum.xda-developers.com###xdadevelopers_leaderboard_btf
+forum.xda-developers.com##.notice-content
 
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
@@ -138,7 +143,6 @@ androidpolice.com##.w-pencil-banner
 9to5google.com##.trending-items
 9to5google.com##.currently-reading
 9to5google.com##.feed-title-bar
-9to5google.com##.news-feed-header
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 
 ! 2022-02-08 https://chromeunboxed.com
@@ -252,6 +256,7 @@ reddit.com###COIN_PURCHASE_DROPDOWN_ID
 reddit.com##._24UNt1hkbrZxLzs5vkvuDh
 reddit.com##._31AVRNJbVMh2DUFRrpCQcD
 reddit.com##._20b4i5iUhjZQqDZ1BM_Q-9._2Xq-4oyrEvHjL5U_EeMnK8
+reddit.com##._288IzKhWMb7Dw403RofBU8._2h6EM3mo5Qn9Eqm18v5Hiz._1sDiFFHKyPJghjPpVTW7vB
 
 ! 2022-02-09 https://www.androidcentral.com
 androidcentral.com##.article-header__disclosure
@@ -289,6 +294,7 @@ itwire.com##.eb-visible
 google.*##^script:has-text(consentCookiePayload)
 google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
+
 
 ! 2022-03-29 https://www.thetimes.co.uk
 thetimes.co.uk###paywall-portal-sale-modal
@@ -427,7 +433,7 @@ androidauthority.com##.--j.--i.--0i
 androidauthority.com##.--m.--Uc > .--Jc
 androidauthority.com##.--e.--jc
 androidauthority.com##.in-article-video
-androidauthority.com##.--Ib.--6f
+
 
 ! 2022-05-14 https://www.reuters.com
 reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
