@@ -257,6 +257,7 @@ reddit.com##._24UNt1hkbrZxLzs5vkvuDh
 reddit.com##._31AVRNJbVMh2DUFRrpCQcD
 reddit.com##._20b4i5iUhjZQqDZ1BM_Q-9._2Xq-4oyrEvHjL5U_EeMnK8
 reddit.com##._288IzKhWMb7Dw403RofBU8._2h6EM3mo5Qn9Eqm18v5Hiz._1sDiFFHKyPJghjPpVTW7vB
+reddit.com##.HNozj_dKjQZ59ZsfEegz8._10BQ7pjWbeYP63SAPNS8Ts._2iuoyPiKHN3kfOoeIQalDT._3hna43Sh0DTnoV7v2NNc2r
 
 ! 2022-02-09 https://www.androidcentral.com
 androidcentral.com##.article-header__disclosure
@@ -383,57 +384,6 @@ techradar.com##.remixd-audioplayer__container
 ! 2022-05-12 https://www.androidcentral.com
 androidcentral.com##.affiliateDisclaimerBar
 androidcentral.com##.buttons-social
-
-! 2022-05-14 https://www.androidauthority.com
-androidauthority.com##.-yc
-androidauthority.com##div.-Hc.-X.-s.-Gc:nth-of-type(n)
-androidauthority.com##.-jf.-gf
-androidauthority.com##.-sc
-androidauthority.com##.-Tb.-mh
-androidauthority.com##.-Xf
-androidauthority.com##.-yh
-androidauthority.com##div.-dl:nth-of-type(4)
-androidauthority.com##div.-Hc.-lh.-Gc:nth-of-type(n)
-androidauthority.com##.-sm.-Yc.-r
-androidauthority.com##div.-Ic.-lh.-Gc:nth-of-type(n)
-androidauthority.com##.-id > p
-androidauthority.com##.-Dc
-androidauthority.com##.-zc.-wc
-androidauthority.com##div.-Id.-ab.-r.-Hd:nth-of-type(n)
-androidauthority.com##.-Uh
-androidauthority.com##.-Tb.-Dg
-androidauthority.com##.-Eg
-androidauthority.com##.-Ad.-q
-androidauthority.com##.-uc
-androidauthority.com##div.-Jd.-Rh.-Hd:nth-of-type(n)
-androidauthority.com##.-ec
-androidauthority.com##.-De
-androidauthority.com##div.-ad.-d.-i.-_c:nth-of-type(n)
-androidauthority.com##.-ze.-we
-androidauthority.com##.-De
-androidauthority.com##.-ec > p
-androidauthority.com##.--Oc.--Wb.--Nc
-androidauthority.com##.--xc.--uc
-androidauthority.com##.--Rb
-androidauthority.com##.--Qi.--s
-androidauthority.com##.--4c
-androidauthority.com##.--Cc
-androidauthority.com##.--Bc
-androidauthority.com##.--dc
-androidauthority.com##.--dc > p
-androidauthority.com##a.--Gi:nth-of-type(n)
-androidauthority.com##.--Ri
-androidauthority.com##.--Qi.--s
-androidauthority.com##.--ki.--Zl
-androidauthority.com##.--rm.--hi.--jm
-androidauthority.com##.--Yl.--3b
-androidauthority.com##.--Yl.---b.--t
-androidauthority.com##.--Vc
-androidauthority.com##.--j.--i.--0i
-androidauthority.com##.--m.--Uc > .--Jc
-androidauthority.com##.--e.--jc
-androidauthority.com##.in-article-video
-
 
 ! 2022-05-14 https://www.reuters.com
 reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
