@@ -17,7 +17,6 @@ no-large-media: behind-the-scene false
 * amazonclix.com * block
 * ampproject.org * block
 * analyticsengine.s3.amazonaws.com * block
-* sentry.androidacy.com * block
 * hulkprod.anm.co.uk * block
 * cdn.appdynamics.com * block
 * metrics.apple.com * block
@@ -119,8 +118,6 @@ no-large-media: behind-the-scene false
 * insurads.com * block
 * intellitxt.com * block
 * cdn.intergi.com * block
-* code.jquery.com * block
-* cdn.jsdelivr.net * block
 * jwpltx.com * block
 * nebula-cdn.kampyle.com * block
 * ads.linkedin.com * block
@@ -181,6 +178,7 @@ no-large-media: behind-the-scene false
 * a.pub.network * block
 * secure.quantserve.com * block
 * quantummetric.com * block
+* tag.rmp.rakuten.com * block
 * pages-stats.rbl.ms * block
 * user-stats.rbl.ms * block
 * ads.reddit.com * block
@@ -234,6 +232,7 @@ no-large-media: behind-the-scene false
 * analytics-sg.tiktok.com * block
 * cdn.tinypass.com * block
 * dashboard.tinypass.com * block
+* experience.tinypass.com * block
 * reach-id.orbit.tm-awx.com * block
 * trackonomics.net * block
 * tripolihash.com * block
@@ -259,6 +258,7 @@ no-large-media: behind-the-scene false
 * wishjus.com * block
 * pixel.wp.com * block
 * stats.wp.com * block
+* androidauth.wpengine.com * block
 * ad.wsod.com * block
 * api.ad.xiaomi.com * block
 * www.cdn.ad.xiaomi.com * block
@@ -280,13 +280,12 @@ no-large-media: behind-the-scene false
 * ads.youtube.com * block
 * static.zotabox.com * block
 * segment-data.zqtk.net * block
-www.androidacy.com * 3p-script block
-www.androidacy.com patreon.com * block
-www.androidacy.com sentry-cdn.com * block
-www.androidacy.com sentry.io * block
-www.androidauthority.com static.narrativ.com * noop
-www.apkmirror.com * 3p-script block
-www.apkmirror.com * inline-script block
+androidacy.com patreon.com * block
+androidacy.com sentry-cdn.com * block
+androidacy.com sentry.io * block
+androidauthority.com static.narrativ.com * noop
+apkmirror.com * 3p-script block
+apkmirror.com * inline-script block
 behind-the-scene * * noop
 behind-the-scene * 1p-script noop
 behind-the-scene * 3p noop
