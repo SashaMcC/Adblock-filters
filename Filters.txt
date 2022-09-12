@@ -306,9 +306,6 @@ google.*##+js(aeld, DOMContentLoaded, CONSENT)
 ! 2022-03-29 https://www.thetimes.co.uk
 thetimes.co.uk###paywall-portal-sale-modal
 
-! 2022-04-05 https://readberserk.com
-readberserk.com##.card
-
 ! 2022-04-05 https://www.androidacy.com
 androidacy.com##ins.adsbygoogle:nth-of-type(n)
 androidacy.com##.widget-area
@@ -409,3 +406,6 @@ zdnet.com##.footer-main
 
 ! 2022-07-30 https://www.channel4.com
 channel4.com##.watch-more__slider
+
+! 2022-09-05 https://www.theguardian.com
+||sourcepoint.theguardian.com/index.html?message_id=*$subdocument
