@@ -42,6 +42,7 @@ no-large-media: behind-the-scene false
 * confiant-integrations.global.ssl.fastly.net * block
 * connatix.com * block
 * consensu.org * block
+* convertkit.com * block
 * app.convertkit.com * block
 * cookiebot.com * block
 * cookielaw.org * block
@@ -161,6 +162,7 @@ no-large-media: behind-the-scene false
 * amplify.outbrain.com * block
 * widgets.outbrain.com * block
 * parkdumbest.com * block
+* cdn.parsely.com * block
 * p1.parsely.com * block
 * perfectaudience.com * block
 * permutive.app * block
@@ -176,6 +178,7 @@ no-large-media: behind-the-scene false
 * privacymanager.io * block
 * pro-market.net * block
 * a.pub.network * block
+* ads.pubmatic.com * block
 * secure.quantserve.com * block
 * quantummetric.com * block
 * tag.rmp.rakuten.com * block
@@ -217,6 +220,10 @@ no-large-media: behind-the-scene false
 * smetrics.sky.com * block
 * sophi.io * block
 * gdpr-tcfv2.sp-prod.net * block
+* spot.im * block
+* launcher.spot.im * noop
+* publisher-assets.spot.im * noop
+* static-cdn.spot.im * noop
 * spotxchange.com * block
 * www.stack-sonar.com * block
 * taboola.com * block
@@ -294,6 +301,12 @@ behind-the-scene * 3p-script noop
 behind-the-scene * image noop
 behind-the-scene * inline-script noop
 www.facebook.com www.facebook.com * noop
+store.google.com 2542116.fls.doubleclick.net * noop
+store.google.com googleads.g.doubleclick.net * noop
+store.google.com stats.g.doubleclick.net * noop
+store.google.com google-analytics.com * noop
+store.google.com adservice.google.com * noop
+store.google.com googletagmanager.com * noop
 www.independent.co.uk ampproject.org * noop
 www.independent.co.uk cdn.ampproject.org * noop
 www.youtube.com googleads.g.doubleclick.net * noop
