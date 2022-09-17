@@ -409,3 +409,6 @@ channel4.com##.watch-more__slider
 
 ! 2022-09-05 https://www.theguardian.com
 ||sourcepoint.theguardian.com/index.html?message_id=*$subdocument
+
+! 2022-09-17 https://www.youtube.com
+@@||jnn-pa.googleapis.com^$xhr,domain=youtube.com
