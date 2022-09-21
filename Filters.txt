@@ -149,6 +149,7 @@ androidpolice.com##.affiliate-sponsored
 9to5google.com##.currently-reading
 9to5google.com##.feed-title-bar
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
+@@||www.youtube.com^
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
@@ -188,6 +189,8 @@ chromeunboxed.com##.ezoic-ad > .ezoic-ad
 chromeunboxed.com##[class^="ezo"]
 chromeunboxed.com##[class^="ezmob"]
 chromeunboxed.com##[class$="-ad"]
+chromeunboxed.com##.topBar
+@@||www.ezojs.com/detroitchicago/*$script
 
 ! 2022-02-08 https://www.omgubuntu.co.uk
 omgubuntu.co.uk##.header__nav
@@ -410,6 +413,3 @@ channel4.com##.watch-more__slider
 
 ! 2022-09-05 https://www.theguardian.com
 ||sourcepoint.theguardian.com/index.html?message_id=*$subdocument
-
-! 2022-09-20 https://www.youtube.com
-@@||www.youtube.com^
