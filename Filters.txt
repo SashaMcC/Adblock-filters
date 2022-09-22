@@ -129,6 +129,10 @@ androidpolice.com##.footer_breadcrumb
 androidpolice.com##.w-article-author-bio-expand
 androidpolice.com##.w-pencil-banner
 androidpolice.com##.affiliate-sponsored
+androidpolice.com##.i-arrow-1.icon.directory-warning
+androidpolice.com##.i-list.icon.article-directory-list-cta
+androidpolice.com##.article-series-bottom-container
+androidpolice.com###disqus-load-section
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
