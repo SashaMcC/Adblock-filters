@@ -417,3 +417,11 @@ channel4.com##.watch-more__slider
 
 ! 2022-09-05 https://www.theguardian.com
 ||sourcepoint.theguardian.com/index.html?message_id=*$subdocument
+
+! 2022-09-26 https://web.archive.org
+archive.org##[class^="ad"]
+
+! 2022-09-30 https://www.telegraph.co.uk
+telegraph.co.uk##.section.video-player
+telegraph.co.uk##.tpl-article__lead-asset
+telegraph.co.uk##.tpl-article__layout--sidebar
