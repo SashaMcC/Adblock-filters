@@ -24,6 +24,7 @@ boards.4channel.org##.globalMessage
 boards.4channel.org##.collapseIcon
 boards.4channel.org##.hidden.mobile.redButton.button
 boards.4channel.org##body > .adc-resp-bg
+boards.4channel.org##.party-hat
 boards.4chan.org##.desktop.title
 boards.4chan.org##.title.desktop
 boards.4chan.org##.center.middlead
@@ -49,6 +50,7 @@ boards.4chan.org##.globalMessage
 boards.4chan.org##.collapseIcon
 boards.4chan.org##.hidden.mobile.redButton.button
 boards.4chan.org##body > .adc-resp-bg
+boards.4chan.org##.party-hat
 ||s.4cdn.org/image/contest_banners/*$image
 ||bid.glass
 ||s.4cdn.org/image/title/*.png
