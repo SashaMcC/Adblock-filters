@@ -51,6 +51,7 @@ no-large-media: behind-the-scene false
 * d1z2jf7jlzjs58.cloudfront.net * block
 * d2c8v52ll5s99u.cloudfront.net * block
 * d2uap9jskdzp2.cloudfront.net * block
+* datadome.co * block
 * decibelinsight.net * block
 * demdex.net * block
 * dpm.demdex.net * block
@@ -147,6 +148,7 @@ no-large-media: behind-the-scene false
 * cdn.nowinteract.com * block
 * www.npttech.com * block
 * a.nytimes.com * block
+* a-reporting.nytimes.com * block
 * als-svc.nytimes.com * block
 * a.et.nytimes.com * block
 * meter-svc.nytimes.com * block
@@ -185,6 +187,7 @@ no-large-media: behind-the-scene false
 * pages-stats.rbl.ms * block
 * user-stats.rbl.ms * block
 * ads.reddit.com * block
+* w3-reporting.reddit.com * block
 * events.redditmedia.com * block
 * remixd.com * block
 * rereddit.com * block
@@ -208,6 +211,7 @@ no-large-media: behind-the-scene false
 * config.seedtag.com * block
 * segment.com * block
 * cdn.segment.com * block
+* sentry.io * block
 * servebom.com * block
 * native.sharethrough.com * block
 * sdk.sharethrough.com * block
