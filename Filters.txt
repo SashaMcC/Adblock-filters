@@ -135,6 +135,7 @@ androidpolice.com##.i-arrow-1.icon.directory-warning
 androidpolice.com##.i-list.icon.article-directory-list-cta
 androidpolice.com##.article-series-bottom-container
 androidpolice.com###disqus-load-section
+androidpolice.com##.poll-container
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
