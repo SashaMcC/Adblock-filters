@@ -77,8 +77,17 @@ xda-developers.com##em
 xda-developers.com##[class^="ad"]
 xda-developers.com##.swiper-container
 xda-developers.com##.bestawarddiv
-xda-developers.com##div.w-pencil-banner
 xda-developers.com##.w-listing-header
+xda-developers.com##div.w-pencil-banner
+xda-developers.com##a.bc-comment-count
+xda-developers.com##.bc-details
+xda-developers.com##.affiliate-sponsored
+xda-developers.com##.heading_sharing
+xda-developers.com##.heading_meta
+xda-developers.com##.article-footer
+xda-developers.com##.w-article-related
+xda-developers.com##footer
+xda-developers.com##.w-display-card-list
 forum.xda-developers.com##.structItemContainer-group--sticky
 forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
 forum.xda-developers.com##.uix_noticeInner
@@ -103,6 +112,12 @@ gsmarena.com##.ad-label
 gsmarena.com##.module
 gsmarena.com##[href="deals.php3"]
 gsmarena.com###menu [href="https://merch.gsmarena.com/"]
+gsmarena.com##.pricing-container
+gsmarena.com##div.module.price
+gsmarena.com##.popular-tags.drop-down-list, .popular-tags-list-item
+gsmarena.com##.left.label-text.selected
+gsmarena.com##.article-info-line.border-bottom
+gsmarena.com##.article-tags
 
 ! 2022-02-08 https://www.androidpolice.com
 androidpolice.com##.sidebar
@@ -199,6 +214,7 @@ chromeunboxed.com##[class^="ezo"]
 chromeunboxed.com##[class^="ezmob"]
 chromeunboxed.com##[class$="-ad"]
 chromeunboxed.com##.topBar
+chromeunboxed.com##.jp-relatedposts
 @@||www.ezojs.com/detroitchicago/*$script
 
 ! 2022-02-08 https://www.omgubuntu.co.uk
@@ -225,6 +241,9 @@ omgubuntu.co.uk##.portholes-layout
 omgubuntu.co.uk##div.has-subtitle.has-title.with-divider.layout__header:nth-of-type(n)
 omgubuntu.co.uk##div.has-title.with-divider.layout__header:nth-of-type(n)
 omgubuntu.co.uk##div.layout__subtitle:nth-of-type(n)
+omgubuntu.co.uk##.mosaic-layout__container
+omgubuntu.co.uk##.layout__comments
+omgubuntu.co.uk##.highlights-layout
 
 ! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
@@ -258,6 +277,7 @@ linuxiac.com##.ct-footer
 linuxiac.com###sidebar
 linuxiac.com##.ct-share-box
 linuxiac.com##.ct-header-socials
+linuxiac.com##.author-box
 linuxiac.com###comments
 
 ! 2022-02-08 https://www.reddit.com
@@ -430,3 +450,6 @@ archive.org##[class^="ad"]
 telegraph.co.uk##.section.video-player
 telegraph.co.uk##.tpl-article__lead-asset
 telegraph.co.uk##.tpl-article__layout--sidebar
+
+###cookie-law-info-again
+###disqus_thread
