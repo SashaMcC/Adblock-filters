@@ -98,6 +98,7 @@ forum.xda-developers.com##.p-footer
 forum.xda-developers.com###xdadevelopers_leaderboard_atf
 forum.xda-developers.com###xdadevelopers_leaderboard_btf
 forum.xda-developers.com##.notice-content
+xda-developers.com##.heading_breadcrumb
 
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
@@ -242,6 +243,7 @@ omgubuntu.co.uk##div.has-subtitle.has-title.with-divider.layout__header:nth-of-t
 omgubuntu.co.uk##div.has-title.with-divider.layout__header:nth-of-type(n)
 omgubuntu.co.uk##div.layout__subtitle:nth-of-type(n)
 omgubuntu.co.uk##.mosaic-layout__container
+omgubuntu.co.uk##div.mosaic__bg-container
 omgubuntu.co.uk##.layout__comments
 omgubuntu.co.uk##.highlights-layout
 
