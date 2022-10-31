@@ -456,3 +456,4 @@ telegraph.co.uk##.tpl-article__layout--sidebar
 ###cookie-law-info-again
 ###disqus_thread
 ||arrowos.net/js/blockAdBlock.js
+news.sky.com##.ui-consent-roadblock
