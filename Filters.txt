@@ -459,3 +459,4 @@ telegraph.co.uk##.tpl-article__layout--sidebar
 ###disqus_thread
 ||arrowos.net/js/blockAdBlock.js
 news.sky.com##.ui-consent-roadblock
+urbandictionary.com###ud-root > header.md\:bg-yankees:first-child > div.md\:hidden.bg-white.dark\:bg-yankees.fixed.w-full.z-50:first-child > a.md\:hidden.bg-white.shadow.flex.items-center.px-3.justify-between:last-child
