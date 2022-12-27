@@ -58,6 +58,8 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/title/*.png
 ||s.4cdn.org/image/title/*.jpg
 ||s.4cdn.org/image/contest_banners/*.gif
+s.4cdn.org/js/snow.js
+
 
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
@@ -158,6 +160,7 @@ androidpolice.com###disqus-load-section
 androidpolice.com##.poll-container
 androidpolice.com##.w-listing-header
 androidpolice.com##.listing-featured, .featured-6-pin
+androidpolice.com##.article-footer
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
@@ -465,3 +468,4 @@ urbandictionary.com###ud-root > header.md\:bg-yankees:first-child > div.md\:hidd
 @@||google.com^$urlblock,content,jsinject
 @@||office.com^$document
 @@||belfastmetuat-my.sharepoint.com^$document
+belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
