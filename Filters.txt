@@ -470,10 +470,4 @@ urbandictionary.com###ud-root > header.md\:bg-yankees:first-child > div.md\:hidd
 @@||belfastmetuat-my.sharepoint.com^$document
 belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
 
-neeva.com###__next > div.section-top_section__qjhR2:nth-child(2) > div.base_wrapper__fDEOh.section-top_wrapperMod__iEtgB:last-child > div.section-top_lockupGrid__MCKO_:first-child > div.section-top_lockupCta__hRKRI:nth-child(3)
-neeva.com###__next > div.holiday-promo_holidayPromoRibbon__wPH66:first-child
-neeva.com###__next > div.section-top_section__qjhR2:nth-child(2) > div.base_wrapper__fDEOh.section-top_wrapperMod__iEtgB:last-child > div.section-top_secondaryCta__g5Zjr:last-child
-neeva.com###__next > div.nine-out-ten_section__Ofghg:nth-child(3)
-neeva.com###__next > div.section-devices_section__DawkD:nth-child(4)
-neeva.com###__next > div.section-faq_section__02Qua:nth-child(5)
-neeva.com###__next > footer.footer_component__YAQgB:last-child > div.row:last-child > div.\$\{\}.col-desk-16.col-tab-16.col-mob-4 > div.footer_container___ljis > div.footer_copyrightAndSocial__EDx3x:last-child > div.footer_appStoreLinks__GWO6M:nth-child(2) > a
+infraexam.com###content > article.single-page-article.clr > div.entry.clr:first-child > table:first-child
