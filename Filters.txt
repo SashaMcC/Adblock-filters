@@ -465,9 +465,13 @@ telegraph.co.uk##.tpl-article__layout--sidebar
 ||arrowos.net/js/blockAdBlock.js
 news.sky.com##.ui-consent-roadblock
 urbandictionary.com###ud-root > header.md\:bg-yankees:first-child > div.md\:hidden.bg-white.dark\:bg-yankees.fixed.w-full.z-50:first-child > a.md\:hidden.bg-white.shadow.flex.items-center.px-3.justify-between:last-child
+infraexam.com###content > article.single-page-article.clr > div.entry.clr:first-child > table:first-child
 @@||google.com^$urlblock,content,jsinject
+@@||drive.google.com^$document
 @@||office.com^$document
 @@||belfastmetuat-my.sharepoint.com^$document
 belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
-
-infraexam.com###content > article.single-page-article.clr > div.entry.clr:first-child > table:first-child
+boards.4channel.org##.danbo-slot
+s.4cdn.org/js/snow.js
+androidpolice.com##.article-footer
+androidpolice.com##.w-newsletter-popup
