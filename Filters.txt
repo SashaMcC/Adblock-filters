@@ -475,3 +475,4 @@ boards.4channel.org##.danbo-slot
 s.4cdn.org/js/snow.js
 androidpolice.com##.article-footer
 androidpolice.com##.w-newsletter-popup
+xda-developers.com###newsletter-popup-container
