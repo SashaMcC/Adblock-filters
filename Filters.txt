@@ -167,6 +167,7 @@ androidpolice.com##.article-footer
 ! 2022-02-08 https://9to5google.com
 9to5google.com##.slick-slider
 9to5google.com##div.feed-title-bar
+9to5google.com##div.ad-container
 9to5google.com##.post-body.comments-area
 9to5google.com##.post-meta
 9to5google.com##.comments
