@@ -61,6 +61,7 @@ boards.4chan.org##.danbo-slot
 s.4cdn.org/js/snow.js
 
 
+
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
 xda-developers.com##.sidebar
@@ -92,6 +93,7 @@ xda-developers.com##.article-footer
 xda-developers.com##.w-article-related
 xda-developers.com##footer
 xda-developers.com##.w-display-card-list
+xda-developers.com###newsletter-popup-container
 forum.xda-developers.com##.structItemContainer-group--sticky
 forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
 forum.xda-developers.com##.uix_noticeInner
@@ -161,8 +163,12 @@ androidpolice.com##.poll-container
 androidpolice.com##.w-listing-header
 androidpolice.com##.listing-featured, .featured-6-pin
 androidpolice.com##.article-footer
+androidpolice.com##.article-footer
+androidpolice.com##.w-newsletter-popup
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
+###cookie-law-info-again
+###disqus_thread
 
 ! 2022-02-08 https://9to5google.com
 9to5google.com##.slick-slider
@@ -461,19 +467,20 @@ telegraph.co.uk##.section.video-player
 telegraph.co.uk##.tpl-article__lead-asset
 telegraph.co.uk##.tpl-article__layout--sidebar
 
-###cookie-law-info-again
-###disqus_thread
-||arrowos.net/js/blockAdBlock.js
-news.sky.com##.ui-consent-roadblock
-urbandictionary.com###ud-root > header.md\:bg-yankees:first-child > div.md\:hidden.bg-white.dark\:bg-yankees.fixed.w-full.z-50:first-child > a.md\:hidden.bg-white.shadow.flex.items-center.px-3.justify-between:last-child
-infraexam.com###content > article.single-page-article.clr > div.entry.clr:first-child > table:first-child
+! 2023-03-20 https://www.belfastmet.ac.uk
+belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
+belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
+@@||belfastmetuat-my.sharepoint.com^$document
+
+! 2023-03-20 https://www.google.com
 @@||google.com^$urlblock,content,jsinject
 @@||drive.google.com^$document
+
+! 2023-03-20 https://www.arrowos.net
+||arrowos.net/js/blockAdBlock.js
+
+! 2023-03-20 https://www.news.sky.com
+news.sky.com##.ui-consent-roadblock
+
+! 2023-03-20 https://www.office.com
 @@||office.com^$document
-@@||belfastmetuat-my.sharepoint.com^$document
-belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
-boards.4channel.org##.danbo-slot
-s.4cdn.org/js/snow.js
-androidpolice.com##.article-footer
-androidpolice.com##.w-newsletter-popup
-xda-developers.com###newsletter-popup-container
