@@ -191,7 +191,8 @@ androidpolice.com##.w-newsletter-popup
 9to5google.com##.sidebar
 9to5google.com##.adsense
 9to5google.com##.ad-container
-
+9to5google.com##.adsbygoogle
+9to5google.com##.author_ad
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
