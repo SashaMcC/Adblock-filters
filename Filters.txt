@@ -189,6 +189,9 @@ androidpolice.com##.w-newsletter-popup
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 @@||www.youtube.com^
 9to5google.com##.sidebar
+9to5google.com##.adsense
+9to5google.com##.ad-container
+
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
