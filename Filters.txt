@@ -60,8 +60,6 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/contest_banners/*.gif
 s.4cdn.org/js/snow.js
 
-
-
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
 xda-developers.com##.sidebar
@@ -190,6 +188,7 @@ androidpolice.com##.w-newsletter-popup
 9to5google.com##.feed-title-bar
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 @@||www.youtube.com^
+9to5google.com##.sidebar
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
