@@ -188,6 +188,7 @@ androidpolice.com##.w-newsletter-popup
 9to5google.com##.trending-items
 9to5google.com##.currently-reading
 9to5google.com##.feed-title-bar
+9to5google.com##.featured-grid
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 @@||www.youtube.com^
 9to5google.com##.sidebar
