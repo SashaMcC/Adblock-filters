@@ -171,6 +171,7 @@ androidpolice.com##.w-newsletter-popup
 ###disqus_thread
 
 ! 2022-02-08 https://9to5google.com
+9to5google.com##.sidebar
 9to5google.com##.slick-slider
 9to5google.com##div.feed-title-bar
 9to5google.com##div.ad-container
