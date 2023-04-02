@@ -165,6 +165,9 @@ androidpolice.com##.listing-featured, .featured-6-pin
 androidpolice.com##.article-footer
 androidpolice.com##.article-footer
 androidpolice.com##.w-newsletter-popup
+androidpolice.com##.subnav-navigation
+androidpolice.com##.w-display-card-details
+androidpolice.com##.nav-elements
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 ###cookie-law-info-again
@@ -189,6 +192,8 @@ androidpolice.com##.w-newsletter-popup
 9to5google.com##.currently-reading
 9to5google.com##.feed-title-bar
 9to5google.com##.featured-grid
+9to5google.com###js-social-toggle
+9to5google.com##.menu-link, .main-menu-link
 ||9to5google.com/wp-content/themes/9to5-2015/images/top-leaderboard-bg*.png$image
 @@||www.youtube.com^
 9to5google.com##.sidebar
