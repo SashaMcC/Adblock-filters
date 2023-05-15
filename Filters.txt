@@ -209,6 +209,7 @@ androidpolice.com##.nav-elements
 9to5google.com##.google_ads_iframe
 9to5google.com##.div-gpt-ad
 9to5google.com###comments
+9to5google.com##.top-comment
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
