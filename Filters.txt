@@ -444,6 +444,7 @@ apkmirror.com##.ains
 apkmirror.com##.advertisement-text
 apkmirror.com##.adslot
 apkmirror.com##.adsbygoogle
+apkmirror.com##.ains
 
 ! 2022-05-01 https://taskandpurpose.com
 taskandpurpose.com##.wp-block-quote
