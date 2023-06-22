@@ -59,6 +59,7 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/title/*.jpg
 ||s.4cdn.org/image/contest_banners/*.gif
 s.4cdn.org/js/snow.js
+||googleadservices.com^$important,app=com.sec.android.app.sbrowser
 
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
@@ -513,3 +514,7 @@ news.sky.com##.ui-consent-roadblock
 
 ! 2023-03-26 https://www.mui.com
 mui.com##.ad
+
+! 2023-06-22 https://consent.google.com
+||consent google.com^$cookie
+
