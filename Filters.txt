@@ -282,8 +282,9 @@ omgubuntu.co.uk##.mosaic-layout__container
 omgubuntu.co.uk##div.mosaic__bg-container
 omgubuntu.co.uk##.layout__comments
 omgubuntu.co.uk##.highlights-layout
-omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(n) > div.u--box.content-container > div.loop--fw
+omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(7) > div.u--box.content-container > div.loop--fw
 omgubuntu.co.uk##.layout__header-container
+omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(6) > div.u--box.content-container > div.loop--fw
 
 ! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
