@@ -169,6 +169,7 @@ androidpolice.com##.w-newsletter-popup
 androidpolice.com##.subnav-navigation
 androidpolice.com##.w-display-card-details
 androidpolice.com##.nav-elements
+androidpolice.com##.dc-comment-count, .disqus-comment-count
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 ###cookie-law-info-again
@@ -520,3 +521,11 @@ mui.com##.ad
 ! 2023-06-22 https://consent.google.com
 ||consent google.com^$cookie
 
+! 2023-07-15 https://pling.com
+||pling.com/theme/react/bundle/product-view.902996706d83a09f08fb.bundle.js
+
+! 2023-07-15 https://github.com
+github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
+
+! 2023-07-15 https://androidauthority.com
+androidauthority.com##.-__Mb
