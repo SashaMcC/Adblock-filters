@@ -503,10 +503,6 @@ belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-m
 belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
 @@||belfastmetuat-my.sharepoint.com^$document
 
-! 2023-03-20 https://www.google.com
-@@||google.com^$urlblock,content,jsinject
-@@||drive.google.com^$document
-
 ! 2023-03-20 https://www.arrowos.net
 ||arrowos.net/js/blockAdBlock.js
 
