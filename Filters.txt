@@ -59,7 +59,8 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/title/*.jpg
 ||s.4cdn.org/image/contest_banners/*.gif
 s.4cdn.org/js/snow.js
-||googleadservices.com^$important,app=com.sec.android.app.sbrowser
+boards.4channel.org##.danbo-slot
+boards.4chan.org##.danbo-slot
 
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
@@ -529,3 +530,9 @@ github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
 
 ! 2023-07-15 https://androidauthority.com
 androidauthority.com##.-__Mb
+
+! Misc
+||spot.im^$important
+@@||patient-services.co.uk^$important
+||googleadservices.com^$important
+||adservice.google.com^$important
