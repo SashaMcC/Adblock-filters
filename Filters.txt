@@ -527,6 +527,11 @@ github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
 ! 2023-07-15 https://androidauthority.com
 androidauthority.com##.-__Mb
 
+! 2023-07-23 com.laurencedawson.reddit_sync
+@@||oauth.reddit.com^$important,app=com.laurencedawson.reddit_sync
+@@||redd.it^$important,app=com.laurencedawson.reddit_sync
+@@||dns.google^$important,app=com.laurencedawson.reddit_sync
+
 ! Misc
 ||spot.im^$important
 @@||patient-services.co.uk^$important
