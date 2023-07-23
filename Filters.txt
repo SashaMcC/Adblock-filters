@@ -531,6 +531,8 @@ androidauthority.com##.-__Mb
 @@||oauth.reddit.com^$important,app=com.laurencedawson.reddit_sync
 @@||redd.it^$important,app=com.laurencedawson.reddit_sync
 @@||dns.google^$important,app=com.laurencedawson.reddit_sync
+@@||ssl.reddit.com^$important,app=com.laurencedawson.reddit_sync
+@@||redditmedia.com^$important,app=com.laurencedawson.reddit_sync
 
 ! Misc
 ||spot.im^$important
