@@ -536,3 +536,4 @@ androidauthority.com##.-__Mb
 @@||patient-services.co.uk^$important
 ||googleadservices.com^$important
 ||adservice.google.com^$important
+@@||dns.google^$important
