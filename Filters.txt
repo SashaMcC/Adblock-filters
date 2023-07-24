@@ -527,6 +527,9 @@ github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
 ! 2023-07-15 https://androidauthority.com
 androidauthority.com##.-__Mb
 
+! 2023-07-24 https://wwww.phonearena.com
+phonearena.com##.announcement-widget
+
 ! Misc
 ||spot.im^$important
 ||googleadservices.com^$important
