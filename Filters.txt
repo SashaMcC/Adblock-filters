@@ -535,5 +535,7 @@ phonearena.com##.announcement-widget
 ||googleadservices.com^$important
 ||adservice.google.com^$important
 @@||dns.google^$important
+@@||store.google.com
 @@||oauth.reddit.com^$important
 @@||patient-services.co.uk^$important
+phonearena.com##.announcement-widget-item
