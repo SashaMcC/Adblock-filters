@@ -256,38 +256,6 @@ chromeunboxed.com##.topBar
 chromeunboxed.com##.jp-relatedposts
 @@||www.ezojs.com/detroitchicago/*$script
 
-! 2022-02-08 https://www.omgubuntu.co.uk
-omgubuntu.co.uk##.header__nav
-omgubuntu.co.uk##.header__socials
-omgubuntu.co.uk##[class^="splide"]
-omgubuntu.co.uk##[class$="splide"]
-omgubuntu.co.uk##.sidebar
-omgubuntu.co.uk##.page-footer
-omgubuntu.co.uk##.homepage-layout.tile-layout--3x.tile-layout.topic-layout
-omgubuntu.co.uk##div.layout__header--with-divider.layout__header:nth-of-type(5)
-omgubuntu.co.uk##.widget_omg_related_posts.widget
-omgubuntu.co.uk##[class^="disqus"]
-omgubuntu.co.uk##.CookieWarning
-omgubuntu.co.uk##.post-meta
-omgubuntu.co.uk##.omg-socials
-omgubuntu.co.uk##.post-links
-omgubuntu.co.uk##.breadcrumbs
-omgubuntu.co.uk##.header__socials--mobile
-omgubuntu.co.uk##.omg-promoted-story
-omgubuntu.co.uk##.omg-social-proof
-omgubuntu.co.uk##.embed-container
-omgubuntu.co.uk##.portholes-layout
-omgubuntu.co.uk##div.has-subtitle.has-title.with-divider.layout__header:nth-of-type(n)
-omgubuntu.co.uk##div.has-title.with-divider.layout__header:nth-of-type(n)
-omgubuntu.co.uk##div.layout__subtitle:nth-of-type(n)
-omgubuntu.co.uk##.mosaic-layout__container
-omgubuntu.co.uk##div.mosaic__bg-container
-omgubuntu.co.uk##.layout__comments
-omgubuntu.co.uk##.highlights-layout
-omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(7) > div.u--box.content-container > div.loop--fw
-omgubuntu.co.uk##.layout__header-container
-omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(6) > div.u--box.content-container > div.loop--fw
-
 ! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
 9to5linux.com###disqus_thread
