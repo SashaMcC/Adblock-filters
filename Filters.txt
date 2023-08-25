@@ -538,4 +538,6 @@ phonearena.com##.announcement-widget
 @@||store.google.com
 @@||oauth.reddit.com^$important
 @@||patient-services.co.uk^$important
+@@||cdn-gl.imrworldwide.com^$important
+@@||pixelos.net^$important
 phonearena.com##.announcement-widget-item
