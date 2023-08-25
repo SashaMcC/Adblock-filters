@@ -539,5 +539,6 @@ phonearena.com##.announcement-widget
 @@||oauth.reddit.com^$important
 @@||patient-services.co.uk^$important
 @@||cdn-gl.imrworldwide.com^$important
+@@||secure-dcr.imrworldwide.com^$domain=cdn-gl.imrworldwide.com,important
 @@||pixelos.net^$important
 phonearena.com##.announcement-widget-item
