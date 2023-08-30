@@ -508,5 +508,6 @@ phonearena.com##.announcement-widget
 @@||patient-services.co.uk^$important
 @@||cdn-gl.imrworldwide.com^$important
 @@||secure-dcr.imrworldwide.com^$domain=cdn-gl.imrworldwide.com,important
+@@||cdn.optimizely.com^$important
 @@||pixelos.net^$important
 phonearena.com##.announcement-widget-item
