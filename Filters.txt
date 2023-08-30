@@ -511,3 +511,4 @@ phonearena.com##.announcement-widget
 @@||cdn.optimizely.com^$important
 @@||pixelos.net^$important
 phonearena.com##.announcement-widget-item
+@@||static.wikia.nocookie.net^$important
