@@ -521,5 +521,3 @@ omglinux.com##.site-footer
 @@||pixelos.net^$important
 phonearena.com##.announcement-widget-item
 @@||static.wikia.nocookie.net^$important
-@@||static.danbo.org/publisher/$domain=boards.4channel.org,important
-@@||static.danbo.org/publisher/$domain=boards.4chan.org,important
