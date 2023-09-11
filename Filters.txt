@@ -521,3 +521,8 @@ omglinux.com##.site-footer
 @@||pixelos.net^$important
 phonearena.com##.announcement-widget-item
 @@||static.wikia.nocookie.net^$important
+@@||pushpad.xyz/pushpad.js$important
+@@||pushpad.xyz/service-worker.js$important
+@@||s.pemsrv.com/venor.php$important
+@@||twincdn.com^$important
+@@||fandom.com/load.php$important
