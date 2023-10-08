@@ -96,8 +96,8 @@ xda-developers.com##.w-display-card-list
 xda-developers.com###newsletter-popup-container
 xda-developers.com##.subnav-navigation
 xda-developers.com##.w-display-card-details
-xda.developers.com##.disqus-comment-count.bc-comment-count
-xda.developers.com##.disqus-comment-count.dc-comment-count
+xda.developers.com###disqus-comment-count.bc-comment-count
+xda.developers.com###disqus-comment-count.dc-comment-count
 forum.xda-developers.com##.structItemContainer-group--sticky
 forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
 forum.xda-developers.com##.uix_noticeInner
