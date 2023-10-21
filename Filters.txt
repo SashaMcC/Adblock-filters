@@ -500,15 +500,6 @@ androidauthority.com##.-__Mb
 ! 2023-07-24 https://wwww.phonearena.com
 phonearena.com##.announcement-widget
 
-! 2023-09-08 https://omgubuntu.co.uk
-omgubuntu.co.uk##.widget, .widget_omg_plausible_most_popular_widget
-omgubuntu.co.uk##footer.page-footer
-omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(5)
-omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(6)
-omgubuntu.co.uk##.post-meta
-omgubuntu.co.uk###menu-subnav-links
-omgubuntu.co.uk##.menu-item, .menu-item-type-custom, .menu-item-object-custom
-
 ! 2023-09-08 https://omglinux.com
 omglinux.com###primary > div.author-bio
 omglinux.com##.comments-area
