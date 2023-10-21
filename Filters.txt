@@ -215,6 +215,8 @@ androidpolice.com##.dc-comment-count, .disqus-comment-count
 9to5google.com##.div-gpt-ad
 9to5google.com###comments
 9to5google.com##.top-comment
+9to5google.com##em
+9to5google.com##.wp-block-separator.has-alpha-channel-opacity
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
