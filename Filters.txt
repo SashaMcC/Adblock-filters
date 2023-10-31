@@ -510,9 +510,9 @@ omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(11)
 omgubuntu.co.uk##.widget, .widget_omg_plausible_most_popular_widget
 omgubuntu.co.uk##.post-meta
 omgubuntu.co.uk##div.homepage-layout__bg-container.layout__header-container:nth-child(7) > div.u--box.content-container > div.loop--fw
+omgubuntu.co.uk##.header__subnav
 
 ! 2023-10-24 https://royalmail.com
-
 royalmail.com##.flmntChatIframe, .flmntChatIframe-maximised
 royalmail.com###flmntChatbot
 
