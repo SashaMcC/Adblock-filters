@@ -173,6 +173,8 @@ androidpolice.com##.subnav-navigation
 androidpolice.com##.w-display-card-details
 androidpolice.com##.nav-elements
 androidpolice.com##.dc-comment-count, .disqus-comment-count
+androidpolice.com##.w-login-banner
+androidpolice.com###signin-banner-container
 ||disqus.com$subdocument
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 ###cookie-law-info-again
