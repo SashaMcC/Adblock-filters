@@ -175,8 +175,8 @@ androidpolice.com##.nav-elements
 androidpolice.com##.dc-comment-count, .disqus-comment-count
 androidpolice.com##.w-login-banner
 androidpolice.com###signin-banner-container
+||androidpolice.com^$cookie
 ||disqus.com$subdocument
-||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 ###cookie-law-info-again
 ###disqus_thread
 
@@ -219,6 +219,7 @@ androidpolice.com###signin-banner-container
 9to5google.com##.top-comment
 9to5google.com##em
 9to5google.com##.wp-block-separator.has-alpha-channel-opacity
+||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
 
 ! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
