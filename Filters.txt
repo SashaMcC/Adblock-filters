@@ -109,6 +109,8 @@ forum.xda-developers.com###xdadevelopers_leaderboard_atf
 forum.xda-developers.com###xdadevelopers_leaderboard_btf
 forum.xda-developers.com##.notice-content
 xda-developers.com##.heading_breadcrumb
+xda-developers.com##div#article-limit-container.w-article-limit.is-visible
+||xda-developers.com^$cookie
 
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
