@@ -480,9 +480,6 @@ news.sky.com##.ui-consent-roadblock
 ! 2023-03-26 https://www.mui.com
 mui.com##.ad
 
-! 2023-06-22 https://consent.google.com
-||consent.google.com^$cookie
-
 ! 2023-07-15 https://pling.com
 ||pling.com/theme/react/bundle/product-view.902996706d83a09f08fb.bundle.js
 
