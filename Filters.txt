@@ -299,6 +299,7 @@ linuxiac.com##.ct-share-box
 linuxiac.com##.ct-header-socials
 linuxiac.com##.author-box
 linuxiac.com###comments
+linuxiac.com##.ays-quiz-wrap
 
 ! 2022-02-08 https://www.reddit.com
 reddit.com##.promotedlink
