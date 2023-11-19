@@ -306,6 +306,8 @@ reddit.com##.promotedlink
 reddit.com##.scrollerItem:has-text(Top broadcast)
 reddit.com##.scrollerItem:has-text(Top livestream)
 reddit.com###COIN_PURCHASE_DROPDOWN_ID
+reddit.com##div[data-testid="frontpage-sidebar"]
+reddit.com##div[style="margin-left:24px;margin-top:0"]
 
 ! 2022-02-09 https://www.androidcentral.com
 androidcentral.com##.article-header__disclosure
