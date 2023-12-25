@@ -1,32 +1,4 @@
 ! 2022-02-08 https://boards.4channel.org
-boards.4channel.org##.desktop.title
-boards.4channel.org##.title.desktop
-boards.4channel.org##.center.middlead
-boards.4channel.org###blotter
-boards.4channel.org##.adg-rects
-boards.4channel.org##.adg-rects
-boards.4channel.org##.adg-rects.mobile
-boards.4channel.org##.mobile.adg-rects
-boards.4channel.org##.closed
-boards.4channel.org##.abovePostForm
-boards.4channel.org##.aboveMidAd
-boards.4channel.org##hr:nth-of-type(n)
-boards.4channel.org##.absBotText
-boards.4channel.org###bannerCnt
-boards.4channel.org##.title
-boards.4channel.org###delform > .adg-rects
-boards.4channel.org##body > .desktop.adg-rects
-boards.4channel.org##.belowLeaderboard
-boards.4channel.org##.adl
-boards.4channel.org##.aboveMidAd
-boards.4channel.org##.adc-resp-bg
-boards.4channel.org##.globalMessage
-boards.4channel.org##.collapseIcon
-boards.4channel.org##.hidden.mobile.redButton.button
-boards.4channel.org##body > .adc-resp-bg
-boards.4channel.org##.party-hat
-boards.4channel.org##.danbo-slot
-boards.4chan.org##.desktop.title
 boards.4chan.org##.title.desktop
 boards.4chan.org##.center.middlead
 boards.4chan.org###blotter
@@ -58,8 +30,6 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/title/*.png
 ||s.4cdn.org/image/title/*.jpg
 ||s.4cdn.org/image/contest_banners/*.gif
-s.4cdn.org/js/snow.js
-boards.4channel.org##.danbo-slot
 boards.4chan.org##.danbo-slot
 
 ! 2022-02-08 https://www.xda-developers.com
