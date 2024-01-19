@@ -496,6 +496,7 @@ royalmail.com###flmntChatbot
 ||spot.im^$important
 ||googleadservices.com^$important
 ||adservice.google.com^$important
+@@||play.google.com/log?format=json&hasfast=true&authuser=0$domain=store.google.com,important
 @@||dns.google^$important
 @@||store.google.com
 @@||oauth.reddit.com^$important
