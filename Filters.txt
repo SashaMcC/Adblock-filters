@@ -81,6 +81,7 @@ forum.xda-developers.com##.notice-content
 xda-developers.com##.heading_breadcrumb
 xda-developers.com##div#article-limit-container.w-article-limit.is-visible
 ||xda-developers.com^$cookie
+xda-developers.com##div.display-card.article.article-card.small.no-badge.active-content
 
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
