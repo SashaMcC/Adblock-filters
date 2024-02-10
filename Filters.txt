@@ -147,6 +147,7 @@ androidpolice.com##.nav-elements
 androidpolice.com##.dc-comment-count, .disqus-comment-count
 androidpolice.com##.w-login-banner
 androidpolice.com###signin-banner-container
+androidpolice.com##div.display-card.article.article-card.small.no-badge.active-content
 ||androidpolice.com^$cookie
 ||disqus.com$subdocument
 ###cookie-law-info-again
