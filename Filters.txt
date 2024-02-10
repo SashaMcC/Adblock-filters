@@ -247,6 +247,10 @@ chromeunboxed.com##.jp-relatedposts
 9to5linux.com##.adsbygoogle
 9to5linux.com##.code-block
 9to5linux.com##.cli-bar-popup
+9to5linux.com##.darkmysite_switch, .darkmysite_switch_apple
+9to5linux.com##.bm-social-linux.bm-social-top
+9to5linux.com##.widget, .widget_block
+||wp-content/uploads/kofi3.webp
 
 ! 2022-02-08 https://linuxiac.com
 linuxiac.com###secondary > .theiaStickySidebar
