@@ -494,6 +494,7 @@ omgubuntu.co.uk##.post-meta
 omgubuntu.co.uk##div.html-layout.homepage-layout
 omgubuntu.co.uk##.header__subnav
 omgubuntu.co.uk##div.homepage-layout__bg-container.layout__header-container
+omgubuntu.co.uk##div.slideshow-layout.homepage-layout
 
 ! 2023-10-24 https://royalmail.com
 royalmail.com##.flmntChatIframe, .flmntChatIframe-maximised
