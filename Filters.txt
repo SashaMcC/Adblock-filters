@@ -85,6 +85,8 @@ xda-developers.com##div.display-card.article.article-card.small.no-badge.active-
 xda-developers.com##div.w-heading-options
 xda-developers.com##div.article-header-data
 xda-developers.com###login-button-article-sidebar.w-header-user-box
+xda-developers.com##div.article-options
+xda-developers.com##div.nav-elements
 
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
@@ -159,6 +161,8 @@ androidpolice.com###login-button-article-sidebar
 ||disqus.com$subdocument
 ###cookie-law-info-again
 ###disqus_thread
+androidpolice.com###website-footer
+androidpolice.com###threads
 
 ! 2022-02-08 https://9to5google.com
 9to5google.com##.sidebar
