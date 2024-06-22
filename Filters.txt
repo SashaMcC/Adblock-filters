@@ -82,6 +82,9 @@ xda-developers.com##.heading_breadcrumb
 xda-developers.com##div#article-limit-container.w-article-limit.is-visible
 ||xda-developers.com^$cookie
 xda-developers.com##div.display-card.article.article-card.small.no-badge.active-content
+xda-developers.com##div.w-heading-options
+xda-developers.com##div.article-header-data
+xda-developers.com###login-button-article-sidebar.w-header-user-box
 
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
@@ -149,6 +152,9 @@ androidpolice.com##.dc-comment-count, .disqus-comment-count
 androidpolice.com##.w-login-banner
 androidpolice.com###signin-banner-container
 androidpolice.com##div.display-card.article.article-card.small.no-badge.active-content
+androidpolice.com##.article-header-data
+androidpolice.com##div.w-heading-options
+androidpolice.com###login-button-article-sidebar
 ||androidpolice.com^$cookie
 ||disqus.com$subdocument
 ###cookie-law-info-again
