@@ -246,6 +246,7 @@ chromeunboxed.com##[class$="-ad"]
 chromeunboxed.com##.topBar
 chromeunboxed.com##.jp-relatedposts
 @@||www.ezojs.com/detroitchicago/*$script
+chromeunboxed.com##.wp-block-group, .CUPctaBlock
 
 ! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
