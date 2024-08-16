@@ -535,6 +535,3 @@ phonearena.com##.announcement-widget-item
 @@||tipjar.tips^$domain=portal.tipjar.tips
 @@||bootleggers.bytable.net^$domain=bootleggers.bytable.net,important
 @@||membershipplus.co.uk^$domain=membershipplus.co.uk,important
-@@||i.redd.it^$important,app=com.reddit.infinity
-@@||v.redd.it^$important,app=com.reddit.infinity
-@@||oauth.reddit.com^$important,app=com.reddit.infinity
