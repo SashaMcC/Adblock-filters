@@ -519,7 +519,6 @@ royalmail.com###flmntChatbot
 @@||play.google.com/log?format=json&hasfast=true&authuser=0$domain=store.google.com,important
 @@||dns.google^$important
 @@||store.google.com
-@@||oauth.reddit.com^$important
 @@||patient-services.co.uk^$important
 @@||cdn-gl.imrworldwide.com^$important
 @@||secure-dcr.imrworldwide.com^$domain=cdn-gl.imrworldwide.com,important
@@ -532,3 +531,10 @@ phonearena.com##.announcement-widget-item
 @@||s.pemsrv.com/venor.php$important
 @@||twincdn.com^$important
 @@||fandom.com/load.php$important
+@@||aniwave.to^$important,app=com.lagradost.cloudstream3.prerelease
+@@||tipjar.tips^$domain=portal.tipjar.tips
+@@||bootleggers.bytable.net^$domain=bootleggers.bytable.net,important
+@@||membershipplus.co.uk^$domain=membershipplus.co.uk,important
+@@||i.redd.it^$important,app=com.reddit.infinity
+@@||v.redd.it^$important,app=com.reddit.infinity
+@@||oauth.reddit.com^$important,app=com.reddit.infinity
