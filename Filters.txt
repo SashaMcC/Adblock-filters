@@ -535,3 +535,9 @@ phonearena.com##.announcement-widget-item
 @@||tipjar.tips^$domain=portal.tipjar.tips
 @@||bootleggers.bytable.net^$domain=bootleggers.bytable.net,important
 @@||membershipplus.co.uk^$domain=membershipplus.co.uk,important
+gsmarena.com##.subHeader2-inner
+boards.4chan.org##div#js-snowfield
+androidpolice.com##nav.w-images-header-menu
+chromeunboxed.com##.hustle-popup
+belfastlive.co.uk##.related-articles-bg
+https://xd.wayin.com/display/container/
