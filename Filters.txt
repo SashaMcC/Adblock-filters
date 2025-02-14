@@ -541,3 +541,7 @@ androidpolice.com##nav.w-images-header-menu
 chromeunboxed.com##.hustle-popup
 belfastlive.co.uk##.related-articles-bg
 https://xd.wayin.com/display/container/
+belfastlive.co.uk##.byline
+belfastlive.co.uk##div.factbox.has-image
+chromeunboxed.com##div.hustle-popup-mask
+chromeunboxed.com##div.hustle-popup
