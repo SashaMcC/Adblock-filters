@@ -31,6 +31,7 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/title/*.jpg
 ||s.4cdn.org/image/contest_banners/*.gif
 boards.4chan.org##.danbo-slot
+boards.4chan.org##div.boardBanner
 
 ! 2022-02-08 https://www.xda-developers.com
 xda-developers.com###footer
