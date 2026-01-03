@@ -33,62 +33,6 @@ boards.4chan.org##.danbo-slot
 boards.4chan.org##.danbo-slot
 boards.4chan.org##div.boardBanner
 
-! 2022-02-08 https://www.xda-developers.com
-xda-developers.com###footer
-xda-developers.com##.sidebar
-xda-developers.com##.comments-block
-xda-developers.com##.author_box
-xda-developers.com###about-author-wrapper
-xda-developers.com###breadcrumbs
-xda-developers.com###affiliate-warning-container
-xda-developers.com##.tagbar
-xda-developers.com##.full_meta
-xda-developers.com##.comments
-xda-developers.com##.item_meta
-xda-developers.com###disqus_thread
-xda-developers.com###post-tags-wrapper
-xda-developers.com##[class$="social"]
-xda-developers.com##[class^="et"]
-xda-developers.com##em
-xda-developers.com##[class^="ad"]
-xda-developers.com##.swiper-container
-xda-developers.com##.bestawarddiv
-xda-developers.com##.w-listing-header
-xda-developers.com##div.w-pencil-banner
-xda-developers.com##.bc-details
-xda-developers.com##.affiliate-sponsored
-xda-developers.com##.heading_sharing
-xda-developers.com##.heading_meta
-xda-developers.com##.article-footer
-xda-developers.com##.w-article-related
-xda-developers.com##footer
-xda-developers.com##.w-display-card-list
-xda-developers.com###newsletter-popup-container
-xda-developers.com##.subnav-navigation
-xda-developers.com##.w-display-card-details
-||xdaportal.disqus.com/count.js
-xda-developers.com##.disqus-comment-count.dc-comment-count
-xda-developers.com##.disqus-comment-count.bc-comment-count
-forum.xda-developers.com##.structItemContainer-group--sticky
-forum.xda-developers.com##h3.uix_threadListSeparator.block-minorHeader:nth-of-type(1)
-forum.xda-developers.com##.uix_noticeInner
-forum.xda-developers.com##.p-body-sidebar
-forum.xda-developers.com##.p-navgroup-link--whatsnew
-forum.xda-developers.com##.p-footer
-||media.pocketnow.com/styles/medium/public/2022-02/mwc-2022-lenovo.png$image
-forum.xda-developers.com###xdadevelopers_leaderboard_atf
-forum.xda-developers.com###xdadevelopers_leaderboard_btf
-forum.xda-developers.com##.notice-content
-xda-developers.com##.heading_breadcrumb
-xda-developers.com##div#article-limit-container.w-article-limit.is-visible
-||xda-developers.com^$cookie
-xda-developers.com##div.display-card.article.article-card.small.no-badge.active-content
-xda-developers.com##div.w-heading-options
-xda-developers.com##div.article-header-data
-xda-developers.com###login-button-article-sidebar.w-header-user-box
-xda-developers.com##div.article-options
-xda-developers.com##div.nav-elements
-
 ! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
 gsmarena.com##.pricing
@@ -302,27 +246,6 @@ reddit.com##div[style="margin-left:24px;margin-top:0"]
 androidcentral.com##.article-header__disclosure
 androidcentral.com##.js-comments-toggle
 
-! 2022-02-09 https://fextralife.com
-fextralife.com##.footer-sticky
-fextralife.com###sidebar-wrapper
-fextralife.com##.ios-fix > .hidden-xs
-fextralife.com###discussions-section
-fextralife.com##footer
-
-! 2022-02-09 https://.fandom.com
-fandom.com##.page-side-tools
-fandom.com##.global-navigation
-fandom.com##.lastEdited
-fandom.com##.WikiaRail.right-rail-wrapper
-fandom.com##.page__right-rail
-fandom.com###articleComments
-fandom.com###mixed-content-footer
-fandom.com##.global-footer
-fandom.com###page-creator
-
-! 2022-02-12 https://addons.mozilla.org
-addons.mozilla.org##.Notice
-
 ! 2022-02-25 https://knowyourmeme.com
 knowyourmeme.com###leaderboard
 knowyourmeme.com##.scroll.redesign.wrap.longcat
@@ -335,46 +258,11 @@ google.*##^script:has-text(consentCookiePayload)
 google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
 
-
-! 2022-03-29 https://www.thetimes.co.uk
-thetimes.co.uk###paywall-portal-sale-modal
-
-! 2022-04-05 https://www.androidacy.com
-androidacy.com##ins.adsbygoogle:nth-of-type(n)
-androidacy.com##.widget-area
-androidacy.com##.perfecty-push-dialog-container
-androidacy.com##.shadow.mx-auto.card
-androidacy.com##.alert-info
-androidacy.com##.has-small-font-size
-androidacy.com##.site-footer
-androidacy.com##.patreon-widget
-androidacy.com##.widget[id^="patreon_wordpress_login_widget-"]
-androidacy.com##.accordion-collapse
-androidacy.com##.widget_patreon_wordpress_login_widget
-androidacy.com###wp-sentry-browser-js
-androidacy.com##[class^="widget"]
-androidacy.com##em
-androidacy.com##p:nth-of-type(6)
-androidacy.com##p:nth-of-type(5)
-androidacy.com##[class$="ad"]
-
-! 2022-04-06 https://news.stv.tv
-news.stv.tv##aside:nth-of-type(n)
-
-! 2022-04-06 https://gogoanime.fi
-gogoanime.*##.notice-400
-
 ! 2022-04-06 https://www.funimation.com
 funimation.com##.v-bottom-sheet.v-dialog
 
 ! 2022-04-07 https://www.theguardian.com
 theguardian.com###sp_message_container_631096
-
-! 2022-04-08 https://ww7.readsnk.com
-readsnk.com##.aligncenter
-readsnk.com##.my-3.justify-center.items-center.flex-wrap.flex
-readsnk.com##.my-3.p-3.text-orange-700.border-orange-500.border-l-4.bg-orange-100
-readsnk.com###disqus_thread
 
 ! 2022-04-21 https://arstechnica.com
 arstechnica.com##.comment-count
@@ -410,9 +298,6 @@ apkmirror.com##.ains
 apkmirror.com##.apkm-initialized.adsbygoogle.adslot
 apkmirror.com##span.advertisement-text
 apkmirror.com##.ains
-
-! 2022-05-01 https://taskandpurpose.com
-taskandpurpose.com##.wp-block-quote
 
 ! 2022-05-02 https://web.archive.org
 web.archive.org##div.adun:nth-of-type(n)
@@ -455,25 +340,11 @@ telegraph.co.uk##.section.video-player
 telegraph.co.uk##.tpl-article__lead-asset
 telegraph.co.uk##.tpl-article__layout--sidebar
 
-! 2023-03-20 https://www.belfastmet.ac.uk
-belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
-belfastmet.instructure.com###flash_message_holder > div.ic-flash-success.flash-message-container
-@@||belfastmetuat-my.sharepoint.com^$document
-
-! 2023-03-20 https://www.arrowos.net
-||arrowos.net/js/blockAdBlock.js
-
 ! 2023-03-20 https://www.news.sky.com
 news.sky.com##.ui-consent-roadblock
 
 ! 2023-03-20 https://www.office.com
 @@||office.com^$document
-
-! 2023-03-26 https://www.mui.com
-mui.com##.ad
-
-! 2023-07-15 https://pling.com
-||pling.com/theme/react/bundle/product-view.902996706d83a09f08fb.bundle.js
 
 ! 2023-07-15 https://github.com
 github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
@@ -546,3 +417,10 @@ belfastlive.co.uk##.byline
 belfastlive.co.uk##div.factbox.has-image
 chromeunboxed.com##div.hustle-popup-mask
 chromeunboxed.com##div.hustle-popup
+||mantis-awx.com^$important
+||mantis-intelligence.com^$important
+belfastlive.co.uk##div.undefined
+||cdn.eu.amplitude.com^$important
+||cmp.inmobi.com^$important
+||premium.express.co.uk^$important
+||livecomments.viafoura.co^
