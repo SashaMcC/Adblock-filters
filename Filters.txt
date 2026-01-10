@@ -424,3 +424,12 @@ belfastlive.co.uk##div.undefined
 ||cmp.inmobi.com^$important
 ||premium.express.co.uk^$important
 ||livecomments.viafoura.co^
+belfastlive.co.uk##aside#factbox[data-tmdatatrack-type="factbox"]
+belfastlive.co.uk##span.react-loading-skeleton
+belfastlive.co.uk##strong
+belfastlive.co.uk##div[data-tmdatatrack="non-content-unit"]
+belfastlive.co.uk##.viafoura
+belfastlive.co.uk###comments-wrapper
+belfastlive.co.uk##div[data-testid="below-article-commercial-box"]
+belfastlive.co.uk##div[data-testid="topbox-container"]
+belfastlive.co.uk##div[data-testid="topbox-scrollable"]
