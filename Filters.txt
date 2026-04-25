@@ -431,3 +431,6 @@ thefirearmblog.com##.post-video.js-sticky-video.floating-video
 thefirearmblog.com##div#js-pg-sidebar.pg-sidebar.sl-sidebar-wrapper
 thefirearmblog.com##div.billboardSize.flex.flex-column.flex-center.js-billboard-parent
 thefirearmblog.com###js-sidebar
+thefirearmblog.com##div.cms-component
+thefirearmblog.com##div.vs-content-ads-grid-unit
+thefirearmblog.com##div.ads-slider-widget.sl-slider-widget
