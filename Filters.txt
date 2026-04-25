@@ -250,9 +250,6 @@ androidcentral.com##.js-comments-toggle
 knowyourmeme.com###leaderboard
 knowyourmeme.com##.scroll.redesign.wrap.longcat
 
-! 2022-03-16 https://itwire.com
-itwire.com##.eb-visible
-
 ! 2022-03-20 https://www.google.com
 google.*##^script:has-text(consentCookiePayload)
 google.*##+js(acis, document.cookie, YES+)
@@ -343,9 +340,6 @@ telegraph.co.uk##.tpl-article__layout--sidebar
 ! 2023-03-20 https://www.news.sky.com
 news.sky.com##.ui-consent-roadblock
 
-! 2023-03-20 https://www.office.com
-@@||office.com^$document
-
 ! 2023-07-15 https://github.com
 github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
 
@@ -433,3 +427,7 @@ belfastlive.co.uk###comments-wrapper
 belfastlive.co.uk##div[data-testid="below-article-commercial-box"]
 belfastlive.co.uk##div[data-testid="topbox-container"]
 belfastlive.co.uk##div[data-testid="topbox-scrollable"]
+thefirearmblog.com##.post-video.js-sticky-video.floating-video
+thefirearmblog.com##div#js-pg-sidebar.pg-sidebar.sl-sidebar-wrapper
+thefirearmblog.com##div.billboardSize.flex.flex-column.flex-center.js-billboard-parent
+thefirearmblog.com###js-sidebar
