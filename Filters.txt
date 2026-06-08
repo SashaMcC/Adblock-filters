@@ -103,11 +103,13 @@ androidpolice.com##.article-header-data
 androidpolice.com##div.w-heading-options
 androidpolice.com###login-button-article-sidebar
 ||androidpolice.com^$cookie
+@@||www.androidpolice.com^$cookie=articleLimitCooldown,important
 ||disqus.com$subdocument
 ###cookie-law-info-again
 ###disqus_thread
 androidpolice.com###website-footer
 androidpolice.com###threads
+
 
 ! 2022-02-08 https://9to5google.com
 9to5google.com##.sidebar
