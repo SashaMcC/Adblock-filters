@@ -32,8 +32,6 @@ boards.4chan.org##.danbo-slot
 ||s.4cdn.org/image/contest_banners/*.gif
 boards.4chan.org##.danbo-slot
 boards.4chan.org##div.boardBanner
-
-! 2022-02-08 https://www.gsmarena.com
 gsmarena.com###social-connect
 gsmarena.com##.pricing
 gsmarena.com##.sub-footer
@@ -52,8 +50,6 @@ gsmarena.com##.popular-tags.drop-down-list, .popular-tags-list-item
 gsmarena.com##.left.label-text.selected
 gsmarena.com##.article-info-line.border-bottom
 gsmarena.com##.article-tags
-
-! 2022-02-08 https://www.androidpolice.com
 androidpolice.com##.sidebar
 androidpolice.com##.ad-zone
 androidpolice.com##.bc-comment-count
@@ -109,9 +105,6 @@ androidpolice.com###login-button-article-sidebar
 ###disqus_thread
 androidpolice.com###website-footer
 androidpolice.com###threads
-
-
-! 2022-02-08 https://9to5google.com
 9to5google.com##.sidebar
 9to5google.com##.slick-slider
 9to5google.com##div.feed-title-bar
@@ -151,8 +144,6 @@ androidpolice.com###threads
 9to5google.com##em
 9to5google.com##.wp-block-separator.has-alpha-channel-opacity
 ||9to5google.com/wp-content/mu-plugins/vip-helpers/images/vip-powered-light-small.png$image
-
-! 2022-02-08 https://chromeunboxed.com
 chromeunboxed.com##.crp_related
 chromeunboxed.com##.newsletterSignupBlock
 chromeunboxed.com##.site-footer
@@ -194,8 +185,6 @@ chromeunboxed.com##.topBar
 chromeunboxed.com##.jp-relatedposts
 @@||www.ezojs.com/detroitchicago/*$script
 chromeunboxed.com##.wp-block-group, .CUPctaBlock
-
-! 2022-02-08 https://9to5linux.com
 9to5linux.com##.widget-area
 9to5linux.com###disqus_thread
 9to5linux.com##.entry-meta
@@ -211,8 +200,6 @@ chromeunboxed.com##.wp-block-group, .CUPctaBlock
 9to5linux.com##.bm-social-linux.bm-social-top
 9to5linux.com##.widget, .widget_block
 ||wp-content/uploads/kofi3.webp
-
-! 2022-02-08 https://linuxiac.com
 linuxiac.com###secondary > .theiaStickySidebar
 linuxiac.com##.comments-area
 linuxiac.com##.fox-related-posts
@@ -235,35 +222,20 @@ linuxiac.com##.author-box
 linuxiac.com###comments
 linuxiac.com##.ays-quiz-wrap
 linuxiac.com##.ultp-wrapper-block
-
-! 2022-02-08 https://www.reddit.com
 reddit.com##.promotedlink
 reddit.com##.scrollerItem:has-text(Top broadcast)
 reddit.com##.scrollerItem:has-text(Top livestream)
 reddit.com###COIN_PURCHASE_DROPDOWN_ID
 reddit.com##div[data-testid="frontpage-sidebar"]
 reddit.com##div[style="margin-left:24px;margin-top:0"]
-
-! 2022-02-09 https://www.androidcentral.com
 androidcentral.com##.article-header__disclosure
 androidcentral.com##.js-comments-toggle
-
-! 2022-02-25 https://knowyourmeme.com
 knowyourmeme.com###leaderboard
 knowyourmeme.com##.scroll.redesign.wrap.longcat
-
-! 2022-03-20 https://www.google.com
 google.*##^script:has-text(consentCookiePayload)
 google.*##+js(acis, document.cookie, YES+)
 google.*##+js(aeld, DOMContentLoaded, CONSENT)
-
-! 2022-04-06 https://www.funimation.com
-funimation.com##.v-bottom-sheet.v-dialog
-
-! 2022-04-07 https://www.theguardian.com
 theguardian.com###sp_message_container_631096
-
-! 2022-04-21 https://arstechnica.com
 arstechnica.com##.comment-count
 arstechnica.com###comments-area
 arstechnica.com###page-footer
@@ -274,14 +246,8 @@ arstechnica.com##.ars-video-playlist-module
 arstechnica.com##.article-author
 arstechnica.com##.inline-playlist
 arstechnica.com###recommendations-footer
-
-! 2022-04-21 https://www.bbc.co.uk
 bbc.co.uk##.lx-share-tools__items
-
-! 2022-04-24 https://sourceforge.net
 sourceforge.net##.social-icons
-
-! 2022-04-26 https://www.apkmirror.com
 apkmirror.com##[class^="ad"]
 apkmirror.com##.gooWidget
 apkmirror.com##.ains-apkm_outbrain_ad:nth-of-type(n)
@@ -297,26 +263,16 @@ apkmirror.com##.ains
 apkmirror.com##.apkm-initialized.adsbygoogle.adslot
 apkmirror.com##span.advertisement-text
 apkmirror.com##.ains
-
-! 2022-05-02 https://web.archive.org
 web.archive.org##div.adun:nth-of-type(n)
-
-! 2022-05-11 https://www.techradar.com
 techradar.com##.affiliateDisclaimerBar
 techradar.com##.remixd-audioplayer__container
-
-! 2022-05-12 https://www.androidcentral.com
 androidcentral.com##.affiliateDisclaimerBar
 androidcentral.com##.buttons-social
-
-! 2022-05-14 https://www.reuters.com
 reuters.com##li.markets-ticker__item__14ZyN:nth-of-type(n)
 reuters.com##.home-ticker-v2__body__2ovuF
 reuters.com##[class^="product-"]
 reuters.com##[class^="site-footer"]
 reuters.com##[class^="spacing-container"]
-
-! 2022-05-19 https://www.zdnet.com
 zdnet.com##.breaking-news-container
 zdnet.com##.social-links
 zdnet.com##.related-stories
@@ -324,39 +280,19 @@ zdnet.com##.relatedContent
 zdnet.com##.related-topics
 zdnet.com###postComments
 zdnet.com##.footer-main
-
-! 2022-07-30 https://www.channel4.com
 channel4.com##.watch-more__slider
-
-! 2022-09-05 https://www.theguardian.com
 ||sourcepoint.theguardian.com/index.html?message_id=*$subdocument
-
-! 2022-09-26 https://web.archive.org
 archive.org##[class^="ad"]
-
-! 2022-09-30 https://www.telegraph.co.uk
 telegraph.co.uk##.section.video-player
 telegraph.co.uk##.tpl-article__lead-asset
 telegraph.co.uk##.tpl-article__layout--sidebar
-
-! 2023-03-20 https://www.news.sky.com
 news.sky.com##.ui-consent-roadblock
-
-! 2023-07-15 https://github.com
 github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
-
-! 2023-07-15 https://androidauthority.com
 androidauthority.com##.-__Mb
-
-! 2023-07-24 https://wwww.phonearena.com
 phonearena.com##.announcement-widget
-
-! 2023-09-08 https://omglinux.com
 omglinux.com###primary > div.author-bio
 omglinux.com##.comments-area
 omglinux.com##.site-footer
-
-! 2023-10-21 https://omgubuntu.co.uk
 omgubuntu.co.uk##div.mosaic-layout__container
 omgubuntu.co.uk##.menu-item
 omgubuntu.co.uk##div.homepage-layout__bg-container:nth-child(6)
@@ -375,12 +311,8 @@ omgubuntu.co.uk##.header__subnav
 omgubuntu.co.uk##div.homepage-layout__bg-container.layout__header-container
 omgubuntu.co.uk##div.slideshow-layout.homepage-layout
 omgubuntu.co.uk##div.homepage-layout__bg-container.has-background
-
-! 2023-10-24 https://royalmail.com
 royalmail.com##.flmntChatIframe, .flmntChatIframe-maximised
 royalmail.com###flmntChatbot
-
-! Misc
 ||spot.im^$important
 ||googleadservices.com^$important
 ||adservice.google.com^$important
@@ -436,3 +368,4 @@ thefirearmblog.com###js-sidebar
 thefirearmblog.com##div.cms-component
 thefirearmblog.com##div.vs-content-ads-grid-unit
 thefirearmblog.com##div.ads-slider-widget.sl-slider-widget
+androidauthority.com##div.e_Ac
