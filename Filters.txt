@@ -369,3 +369,4 @@ thefirearmblog.com##div.cms-component
 thefirearmblog.com##div.vs-content-ads-grid-unit
 thefirearmblog.com##div.ads-slider-widget.sl-slider-widget
 androidauthority.com##div.e_Ac
+##.page__right-rail, .WikiaRail
