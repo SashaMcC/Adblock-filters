@@ -288,7 +288,6 @@ telegraph.co.uk##.tpl-article__lead-asset
 telegraph.co.uk##.tpl-article__layout--sidebar
 news.sky.com##.ui-consent-roadblock
 github.com##.Flash__StyledFlash-sc-hzrzfc-0, .fBDWRA
-androidauthority.com##.-__Mb
 phonearena.com##.announcement-widget
 omglinux.com###primary > div.author-bio
 omglinux.com##.comments-area
@@ -368,7 +367,3 @@ thefirearmblog.com###js-sidebar
 thefirearmblog.com##div.cms-component
 thefirearmblog.com##div.vs-content-ads-grid-unit
 thefirearmblog.com##div.ads-slider-widget.sl-slider-widget
-androidauthority.com##div.e_Ac
-##.page__right-rail, .WikiaRail
-androidauthority.com##div.e_Ad
-androidauthority.com##div.e_Fj
