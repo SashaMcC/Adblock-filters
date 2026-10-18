@@ -345,6 +345,12 @@ boards.4chan.org##div#js-snowfield
 androidpolice.com##nav.w-images-header-menu
 chromeunboxed.com##.hustle-popup
 belfastlive.co.uk##.related-articles-bg
+belfastlive.co.uk##.gpt, .ssr, .ssr-section, .top-slot-wrapper, .ssr-hidden, .top-slot, .fixed-slots
+belfastlive.co.uk##div.Gutter_gutter__kLC93.Gutter_right__h48e3
+belfastlive.co.uk##.non-content-unit
+belfastlive.co.uk##.RHRBlock_rhr-content-container__Hb9Xt
+belfastlive.co.uk##.RHRBlock_right-aside-wrapper__tM2wc
+belfastlive.co.uk##.RHRBlock_h-line__hVhY7
 https://xd.wayin.com/display/container/
 belfastlive.co.uk##.byline
 belfastlive.co.uk##div.factbox.has-image
