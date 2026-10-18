@@ -50,6 +50,7 @@ gsmarena.com##.popular-tags.drop-down-list, .popular-tags-list-item
 gsmarena.com##.left.label-text.selected
 gsmarena.com##.article-info-line.border-bottom
 gsmarena.com##.article-tags
+gsmarena.com##div#subHeader.col
 androidpolice.com##.sidebar
 androidpolice.com##.ad-zone
 androidpolice.com##.bc-comment-count
