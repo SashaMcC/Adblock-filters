@@ -344,16 +344,6 @@ gsmarena.com##.subHeader2-inner
 boards.4chan.org##div#js-snowfield
 androidpolice.com##nav.w-images-header-menu
 chromeunboxed.com##.hustle-popup
-belfastlive.co.uk##.related-articles-bg
-belfastlive.co.uk##.gpt, .ssr, .ssr-section, .top-slot-wrapper, .ssr-hidden, .top-slot, .fixed-slots
-belfastlive.co.uk##div.Gutter_gutter__kLC93.Gutter_right__h48e3
-belfastlive.co.uk##.non-content-unit
-belfastlive.co.uk##.RHRBlock_rhr-content-container__Hb9Xt
-belfastlive.co.uk##.RHRBlock_right-aside-wrapper__tM2wc
-belfastlive.co.uk##.RHRBlock_h-line__hVhY7
-https://xd.wayin.com/display/container/
-belfastlive.co.uk##.byline
-belfastlive.co.uk##div.factbox.has-image
 chromeunboxed.com##div.hustle-popup-mask
 chromeunboxed.com##div.hustle-popup
 ||mantis-awx.com^$important
@@ -363,14 +353,6 @@ belfastlive.co.uk##div.undefined
 ||cmp.inmobi.com^$important
 ||premium.express.co.uk^$important
 ||livecomments.viafoura.co^
-belfastlive.co.uk##aside#factbox[data-tmdatatrack-type="factbox"]
-belfastlive.co.uk##div[data-tmdatatrack="non-content-unit"]
-belfastlive.co.uk##.viafoura
-belfastlive.co.uk###comments-wrapper
-belfastlive.co.uk##div[data-testid="below-article-commercial-box"]
-belfastlive.co.uk##div[data-testid="topbox-container"]
-belfastlive.co.uk##div[data-testid="topbox-scrollable"]
-belfastlive.co.uk##.gpt, .top-slot-wrapper, .ssr-hidden, .top-slot
 thefirearmblog.com##.post-video.js-sticky-video.floating-video
 thefirearmblog.com##div#js-pg-sidebar.pg-sidebar.sl-sidebar-wrapper
 thefirearmblog.com##div.billboardSize.flex.flex-column.flex-center.js-billboard-parent
