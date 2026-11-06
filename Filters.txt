@@ -348,7 +348,6 @@ chromeunboxed.com##div.hustle-popup-mask
 chromeunboxed.com##div.hustle-popup
 ||mantis-awx.com^$important
 ||mantis-intelligence.com^$important
-belfastlive.co.uk##div.undefined
 ||cdn.eu.amplitude.com^$important
 ||cmp.inmobi.com^$important
 ||premium.express.co.uk^$important
