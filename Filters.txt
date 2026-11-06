@@ -359,3 +359,12 @@ thefirearmblog.com###js-sidebar
 thefirearmblog.com##div.cms-component
 thefirearmblog.com##div.vs-content-ads-grid-unit
 thefirearmblog.com##div.ads-slider-widget.sl-slider-widget
+belfastlive.co.uk##.ListUncurated_ad-slot__1WSGI
+belfastlive.co.uk##.ListUncurated_ad-slot__1WSGI:nth-child(n)
+belfastlive.co.uk##.Gutter_gutter__kLC93, .Gutter_right__h48e3
+belfastlive.co.uk###pnp-e-widget
+belfastlive.co.uk##.viafoura
+belfastlive.co.uk###comments-wrapper
+belfastlive.co.uk##div.Gutter_gutter__kLC93.Gutter_left__ovaAw
+belfastlive.co.uk##span.react-loading-skeleton
+belfastlive.co.uk##.RHRBlock_h-line__hVhY7:nth-child(n)
