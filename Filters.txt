@@ -369,3 +369,5 @@ belfastlive.co.uk##div.Gutter_gutter__kLC93.Gutter_left__ovaAw
 belfastlive.co.uk##span.react-loading-skeleton
 belfastlive.co.uk##.RHRBlock_h-line__hVhY7:nth-child(n)
 belfastlive.co.uk##.sc-8cd46d9c-0, .iIFiDU
+belfastlive.co.uk##.sc-8cd46d9c-0, .fQWwpl
+belfastlive.co.uk##div.sc-8cd46d9c-0.fQWwpl:nth-child(n)
