@@ -366,3 +366,7 @@ belfastlive.co.uk###pnp-e-widget
 belfastlive.co.uk##.viafoura
 belfastlive.co.uk###comments-wrapper
 belfastlive.co.uk##div.Gutter_gutter__kLC93.Gutter_left__ovaAw
+belfastlive.co.uk##aside#factbox.Factbox_factbox-container__hSMOa
+belfastlive.co.uk##.sc-943fffec-0, .rSBee
+belfastlive.co.uk##.react-loading-skeleton
+belfastlive.co.uk##.sc-8cd46d9c-0, .iIFiDU
