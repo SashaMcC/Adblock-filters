@@ -370,3 +370,4 @@ belfastlive.co.uk##aside#factbox.Factbox_factbox-container__hSMOa
 belfastlive.co.uk##.sc-943fffec-0, .rSBee
 belfastlive.co.uk##.react-loading-skeleton
 belfastlive.co.uk##.sc-8cd46d9c-0, .iIFiDU
+belfastlive.co.uk##div.SkipToMainContent_skip-to-main-wrapper__cRbP1
