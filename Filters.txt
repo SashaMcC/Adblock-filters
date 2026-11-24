@@ -371,3 +371,8 @@ belfastlive.co.uk##.sc-943fffec-0, .rSBee
 belfastlive.co.uk##.react-loading-skeleton
 belfastlive.co.uk##.sc-8cd46d9c-0, .iIFiDU
 belfastlive.co.uk##div.SkipToMainContent_skip-to-main-wrapper__cRbP1
+belfastlive.co.uk##div.BoxStyles_box-container__Qk3WH.BoxStyles_commercial__Wo6Z4
+belfastlive.co.uk##.RHRBlock_h-line__hVhY7
+belfastlive.co.uk##div.sc-619e474-0.gcQlDP:nth-child(6)
+belfastlive.co.uk##.sc-619e474-0, .gcQlDP
+belfastlive.co.uk##.sc-619e474-0, .cejdvH
