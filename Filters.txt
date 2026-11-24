@@ -377,3 +377,7 @@ belfastlive.co.uk##div.sc-619e474-0.gcQlDP:nth-child(6)
 belfastlive.co.uk##.sc-619e474-0, .gcQlDP
 belfastlive.co.uk##.sc-619e474-0, .cejdvH
 belfastlive.co.uk###main-content > div.ListUncurated_wrapper__0OJgR:last-child > div:nth-child(3) > ol.ListUncurated_uncurated-teaser-list__wVPoj > li.harzsgqwhvyyft3p37q5gv3ny7y0vy7yitzs3y0y0epay8ysy3:nth-child(n)
+belfastlive.co.uk###article-body > div.HtmlEmbed_container__x6svQ.HtmlEmbed_promo-widget__lfRYj:nth-child(n)
+belfastlive.co.uk##script:nth-child(n)
+belfastlive.co.uk##div.SkipToMainContent_skip-to-main-wrapper__cRbP1:nth-child(n)
+belfastlive.co.uk##.sticky:nth-child(n)
